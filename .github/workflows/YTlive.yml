@@ -227,6 +227,33 @@ jobs:
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(youtube-dl -g https://www.youtube.com/watch?v=ABn_ccXn_jc)
         EOL
+    - name: Get Music24.m3u8
+      run: |
+        touch ./Music24.m3u8
+        sudo cat >./Music24.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(youtube-dl -g https://www.youtube.com/watch?v=wrYF0HX7Kzc)
+        EOL
+    - name: Get MusicCi24.m3u8
+      run: |
+        touch ./MusicCi24.m3u8
+        sudo cat >./MusicCi24.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(youtube-dl -g https://www.youtube.com/watch?v=uUBfbLdXArA)
+        EOL
+    - name: Get MusicJp24.m3u8
+      run: |
+        touch ./MusicJp24.m3u8
+        sudo cat >./MusicJp24.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(youtube-dl -g https://www.youtube.com/watch?v=NJvaGDTJEQU)
+        EOL
     - name : Upload artifact
       uses: actions/upload-artifact@master
       with:
