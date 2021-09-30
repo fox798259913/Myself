@@ -1,0 +1,17 @@
+﻿網路流行音樂電台,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/Music24.m3u8
+日文動漫音樂電台,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/MusicJp24.m3u8
+西洋流行音樂電台,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/MusicCi24.m3u8
+
+民視新聞,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/FTVNews.m3u8
+台視新聞,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/TTVNews.m3u8
+中視新聞,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/CTVNews.m3u8
+華視新聞,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/CTSNews.m3u8
+公視,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/PTS.m3u8
+大愛一台,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/DaAiI.m3u8
+三立新聞,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/SETLiveNews.m3u8
+三立inews新聞,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/SETiLiveNews.m3u8
+寰宇新聞台,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/hyxw.m3u8
+東森新聞,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/EBCNews.m3u8
+東森財經,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/EBCFNews.m3u8
+TVBS新聞台,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/TVBSNews.m3u8
+中天新聞,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/CTITVNews.m3u8
