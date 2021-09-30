@@ -92,7 +92,7 @@ jobs:
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(youtube-dl -g https://www.youtube.com/channel/UCp2f7tGJGN6R9Muxipem8Nw/live)
         EOL
-    - name: Get hyxw.m3u8
+    - name: Get CTSNews.m3u8
       run: |
         touch ./CTSNews.m3u8
         sudo cat >./CTSNews.m3u8 <<EOL
@@ -136,6 +136,15 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(youtube-dl -g https://www.youtube.com/watch?v=T8dcZHk4xWs)
+        EOL
+    - name: Get CTVNews.m3u8
+      run: |
+        touch ./CTVNews.m3u8
+        sudo cat >./CTVNews.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(youtube-dl -g https://www.youtube.com/watch?v=TCnaIE_SAtM)
         EOL
     - name : Upload artifact
       uses: actions/upload-artifact@master
