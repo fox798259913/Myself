@@ -146,6 +146,78 @@ jobs:
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(youtube-dl -g https://www.youtube.com/watch?v=TCnaIE_SAtM)
         EOL
+    - name: Get TTVNews.m3u8
+      run: |
+        touch ./TTVNews.m3u8
+        sudo cat >./TTVNews.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(youtube-dl -g https://www.youtube.com/watch?v=xL0ch83RAK8)
+        EOL
+    - name: Get EBCNews.m3u8
+      run: |
+        touch ./EBCNews.m3u8
+        sudo cat >./EBCNews.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(youtube-dl -g https://www.youtube.com/watch?v=R2iMq5LKXco)
+        EOL
+    - name: Get TVBSNews.m3u8
+      run: |
+        touch ./TVBSNews.m3u8
+        sudo cat >./TVBSNews.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(youtube-dl -g https://www.youtube.com/watch?v=V0WxUakDV7M)
+        EOL
+    - name: Get SETLiveNews.m3u8
+      run: |
+        touch ./SETLiveNews.m3u8
+        sudo cat >./SETLiveNews.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(youtube-dl -g https://www.youtube.com/watch?v=pJ0VgJloR9E)
+        EOL
+    - name: Get CTITVNews.m3u8
+      run: |
+        touch ./CTITVNews.m3u8
+        sudo cat >./CTITVNews.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(youtube-dl -g https://www.youtube.com/watch?v=lu_BJKxqGnk)
+        EOL
+    - name: Get FTVNews.m3u8
+      run: |
+        touch ./FTVNews.m3u8
+        sudo cat >./FTVNews.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(youtube-dl -g https://www.youtube.com/watch?v=XxJKnDLYZz4)
+        EOL
+    - name: Get DaAiI.m3u8
+      run: |
+        touch ./DaAiI.m3u8
+        sudo cat >./DaAiI.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(youtube-dl -g https://www.youtube.com/watch?v=oV_i3Hsl_zg)
+        EOL
+    - name: Get EBCFNews.m3u8
+      run: |
+        touch ./EBCFNews.m3u8
+        sudo cat >./EBCFNews.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(youtube-dl -g https://www.youtube.com/watch?v=ABn_ccXn_jc)
+        EOL
     - name : Upload artifact
       uses: actions/upload-artifact@master
       with:
