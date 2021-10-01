@@ -5,10 +5,13 @@ schedule:
 每一個小時執行一次
 
 EPG:
-https://raw.githubusercontent.com/LiuYi0526/IPTV/EPG/guide_merge.xml
 https://raw.githubusercontent.com/LiuYi0526/IPTV/EPG/guide.xml
+https://raw.githubusercontent.com/LiuYi0526/IPTV/EPG/guide_merge.xml
+
 https://raw.githubusercontent.com/StanleyChen0924/Myself/EPG/guide.xml
 https://raw.githubusercontent.com/StanleyChen0924/Myself/EPG/guide_merge.xml
+https://git.io/Jg0Sm
+
 http://webgrabplus.com/epg-channels#s2A8
 https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/
 
