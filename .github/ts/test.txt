@@ -6,7 +6,7 @@ schedule:
 
 EPG:
 https://raw.githubusercontent.com/StanleyChen0924/Myself/EPG/guide.xml
-
+http://webgrabplus.com/epg-channels#s2A8
 https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/
 
 網路流行音樂電台,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/Music24.m3u8
