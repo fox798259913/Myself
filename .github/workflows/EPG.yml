@@ -1,4 +1,4 @@
-name: Make IPTV EPG 
+name: Make EPG 
 on:
   schedule:
     - cron: "0 16 * * *"
@@ -17,6 +17,10 @@ jobs:
       run: |
         cd .wg++
         ./install.sh
+    - name: Download WebGrab++.config.xml
+      run: |
+        cd .wg++
+        wget -N https://raw.githubusercontent.com/StanleyChen0924/IPTV/main/WebGrab.config.xml
     - name: Run
       run: |
         cd .wg++
@@ -26,7 +30,9 @@ jobs:
         cd .wg++
         wget http://epg.51zmt.top:8000/e.xml
         wget https://raw.githubusercontent.com/epgshare01/share01/master/epg_ripper_HK1.xml.gz
+        wfer http://webgrabplus.com/sites/default/files/download/ini/info/zip/Taiwan_tvbox.qmap.tw.zip
         gunzip ./epg_ripper_HK1.xml.gz
+        gunzip ./Taiwan_tvbox.qmap.tw.zip
     - name: Install xmltv
       run: |
         sudo apt update
@@ -36,6 +42,10 @@ jobs:
         cd .wg++
         tv_cat guide.xml epg_ripper_HK1.xml > HK.xml
         tv_cat HK.xml e.xml > guide_merge.xml
+        tv_cat guide.xml tvbox.qmap.tw.channels.xml > TW.xml
+        tv_cat TW.xml e.xml > guide_merge.xml
+        tv_cat guide.xml dishhdasia.com.channels.xml > TW.xml
+        tv_cat TW.xml e.xml > guide_merge.xml
     - name : Upload artifact
       uses: actions/upload-artifact@master
       with:
