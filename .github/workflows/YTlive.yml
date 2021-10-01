@@ -1,6 +1,7 @@
 name: Get YouTube Live m3u8
 on:
   schedule:
+  	# * is a special character in YAML so you have to quote this string Example:- cron: "0 */2 * * *" Executed every two hours
     - cron: "0 */1 * * *"
   workflow_dispatch:
 jobs:
