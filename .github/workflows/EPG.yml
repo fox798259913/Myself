@@ -20,9 +20,18 @@ jobs:
     - name: Download WebGrab++.config.xml
       run: |
         cd .wg++
-        wget -N https://raw.githubusercontent.com/StanleyChen0924/IPTV/main/WebGrab++.config.xml        
+        wget -N https://raw.githubusercontent.com/StanleyChen0924/IPTV/main/WebGrab++.config.xml   
+    - name: Download e.xml
+      run: |
+        cd .wg++ 
         wget http://epg.51zmt.top:8000/e.xml
+    - name: Download tw.channels.xmll
+      run: |
+        cd .wg++
         wger http://webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Taiwan/tvbox.qmap.tw.channels.xml
+    - name: Download dishhdasia.com.channels.xml
+      run: |
+        cd .wg++
         wget http://webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Taiwan/dishhdasia.com.channels.xml
     - name: Run
       run: |
