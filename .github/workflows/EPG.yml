@@ -24,7 +24,7 @@ jobs:
     - name: Download Other EPG
       run: |
         cd .wg++
-        wget http://epg.51zmt.top:8000/e.xml
+        wget https://www.tbc.net.tw/Epg
     - name: Run
       run: |
         cd .wg++
