@@ -44,8 +44,6 @@ jobs:
         tv_cat HK.xml e.xml > guide_merge.xml
         tv_cat guide.xml tvbox.qmap.tw.channels.xml > TW.xml
         tv_cat TW.xml e.xml > guide_merge.xml
-        tv_cat guide.xml dishhdasia.com.channels.xml > TW.xml
-        tv_cat TW.xml e.xml > guide_merge.xml
     - name : Upload artifact
       uses: actions/upload-artifact@master
       with:
