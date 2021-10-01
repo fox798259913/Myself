@@ -1,4 +1,4 @@
-name: Make IPTV EPG 
+name: Make IPTV EPG
 on:
   schedule:
     - cron: "0 16 * * *"
@@ -30,7 +30,7 @@ jobs:
     - name: Run
       run: |
         cd .wg++
-        ./run.sh    
+        ./run.sh
     - name: Install xmltv
       run: |
         sudo apt update
