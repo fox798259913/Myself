@@ -1,4 +1,4 @@
-name: Make IPTV EPG
+name: Make IPTV EPG 
 on:
   schedule:
     - cron: "0 16 * * *"
@@ -20,15 +20,26 @@ jobs:
     - name: Download WebGrab++.config.xml
       run: |
         cd .wg++
-        wget -N https://www.tbc.net.tw/Epg
+        wget -N https://raw.githubusercontent.com/LiuYi0526/IPTV/master/WebGrab++.config.xml
     - name: Run
       run: |
         cd .wg++
         ./run.sh
+    - name: Download Other EPG
+      run: |
+        cd .wg++
+        wget http://epg.51zmt.top:8000/e.xml
+        wget https://raw.githubusercontent.com/epgshare01/share01/master/epg_ripper_HK1.xml.gz
+        gunzip ./epg_ripper_HK1.xml.gz
     - name: Install xmltv
       run: |
         sudo apt update
         sudo apt -y install xmltv
+    - name: Merge EPG
+      run: |
+        cd .wg++
+        tv_cat guide.xml epg_ripper_HK1.xml > HK.xml
+        tv_cat HK.xml e.xml > guide_merge.xml
     - name : Upload artifact
       uses: actions/upload-artifact@master
       with:
