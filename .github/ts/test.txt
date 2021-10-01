@@ -1,4 +1,8 @@
 ﻿https://docs.github.com/cn/actions/learn-github-actions/workflow-syntax-for-github-actions
+schedule:  
+    - cron: "0 */1 * * *"
+  workflow_dispatch:
+每一個小時執行一次
 
 https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/
 
