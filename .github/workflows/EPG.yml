@@ -20,11 +20,7 @@ jobs:
     - name: Download WebGrab++.config.xml
       run: |
         cd .wg++
-        wget -N https://raw.githubusercontent.com/StanleyChen0924/IPTV/main/WebGrab++.config.xml
-    - name: Download Other EPG
-      run: |
-        cd .wg++
-        wget https://www.tbc.net.tw/Epg
+        wget -N https://www.tbc.net.tw/Epg
     - name: Run
       run: |
         cd .wg++
