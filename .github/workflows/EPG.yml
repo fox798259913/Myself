@@ -1,4 +1,4 @@
-name: Make EPG 
+name: Make IPTV EPG 
 on:
   schedule:
     - cron: "0 16 * * *"
