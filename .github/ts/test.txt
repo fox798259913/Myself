@@ -71,6 +71,9 @@ https://git.io/Jgkpy
 大愛二台,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/daai2.m3u8
 https://git.io/JgYms
 
+大愛海外,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive//daai3.m3u8
+https://git.io/J2GSu
+
 幸福空間,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/gstv.m3u8
 https://git.io/JgYYF
 
