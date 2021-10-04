@@ -37,6 +37,7 @@ https://git.io/Jgkxz
 https://git.io/Jgkxa
 
 公視,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/PTS.m3u8
+https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/PTS.m3u8
 https://git.io/JgkxM
 
 大愛一台,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/DaAiI.m3u8
