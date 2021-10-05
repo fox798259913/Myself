@@ -97,4 +97,8 @@ KPOP,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/KPOP.m3u8
 KPOP Live,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/KPOPLive.m3u8
 https://git.io/JgP6P
 
+Aespa,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/aespa.m3u8
+https://git.io/JVuG8
+
+
 https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/
