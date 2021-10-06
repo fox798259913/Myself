@@ -13,6 +13,7 @@ https://raw.githubusercontent.com/StanleyChen0924/Myself/EPG/guide_merge.xml
 https://git.io/Jg0Sm
 
 http://webgrabplus.com/epg-channels#s2A8
+https://github.com/StanleyChen0924/Myself/tree/YTlive
 https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/
 
 網路流行音樂電台,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/Music24.m3u8
@@ -40,6 +41,8 @@ https://git.io/Jgkxa
 https://git.io/JgkxM
 https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/PTS.m3u8
 https://git.io/JVFGN
+https://github.com/StanleyChen0924/Myself/raw/YTlive/PTS.m3u8
+https://git.io/JVFBr
 
 大愛一台,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/DaAiI.m3u8
 https://git.io/Jgkx9
