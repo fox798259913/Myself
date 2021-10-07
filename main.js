@@ -6,7 +6,7 @@ if (Hls.isSupported()) {
   hls.on(Hls.Events.MEDIA_ATTACHED, function() {
     console.log("video and hls.js are now bound together !");
     hls.loadSource(
-	  "https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/PTS.m3u8"
+	  "https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8"
     );
   });
 
