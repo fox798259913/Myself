@@ -2,9 +2,9 @@
 <html>
 
 <head>
-    <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta charset="UTF-8">
     <title>HLS Demo</title>
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/github-markdown-css">
     <link rel="stylesheet" href="demo.css">
@@ -16,19 +16,24 @@
     <script src="https://cdn.jsdelivr.net/npm/pearplayer"></script>
     <script src="DPlayer.js"></script>    
 	<!--引入播放器样式-->
-    <link href="http://vjs.zencdn.net/5.19/video-js.min.css" rel="stylesheet">
+    
     <!--引入播放器js-->
-    <script src="http://vjs.zencdn.net/5.19/video.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/videojs-flash@2/dist/videojs-flash.min.js"></script>    
     
 </head>
 
 <body class="markdown-body">
     
-    <center><video id="video" controls src="http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8" width="400"></video><center>
+    <center><video id="video" controls src="http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8" width="400"></video><center/>
     <br>
     <center><button id="play">video原生播放方法</button>
-    <button id="pause">video原生暫停方法</button><center>
+    <button id="pause">video原生暫停方法</button></center>
+    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+    <script src="./main.js"></script>
+	
+	<video id="video" controls width="400">
+    </video>
+    <button id="play">video原生播放方法</button>
+    <button id="pause">video原生暫停方法</button>
     <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
     <script src="./main.js"></script>
 	
@@ -37,50 +42,13 @@
         container: document.getElementById('dplayer'),
         autoplay: true,
         video: {
-            url: 'https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/PTS.m3u8',
+            url: "https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/PTS.m3u8",
             type: 'hls'
-        },
-        hlsjsConfig: {
-//            debug: false,
-            // Other hlsjsConfig options provided by hls.js
-            p2pConfig: {
-                logLevel: true,
-                live: false,
-                // Other p2pConfig options provided by CDNBye
-                // https://docs.cdnbye.com/#/API
-            }
-        }
+        },		
     });
 	</script>
 	
 	
-	<!-- https://segmentfault.com/a/1190000024533271 -->
-        <!--vjs-big-play-centered 播放按鈕居中-->
-        <!--poster默認的顯示介面，就是還沒點播放，給你顯示的介面-->
-        <!--controls 規定瀏覽器應該為視頻提供播放控制件-->
-        <!--preload="auto" 是否提前載入-->
-        <!--autoplay 自動播放-->
-        <!--loop=true 自動迴圈-->
-        <!--data-setup='{"example_option":true}' 可以把一些屬性寫到這個裡面來，如data-setup={"autoplay":true}-->
-        <video id="my-player"
-            class="video-js vjs-default-skin vjs-big-play-centered" controls
-            preload="auto" autoplay="autoplay"
-            poster="images/logo.png" width="500" height="400"
-            data-setup='{}'>
-            <!--src: 規定媒體檔的 URL type：規定媒體資源的類型-->
-            <source src='rtmp://192.168.12.187:1935/live/1' type='rtmp/flv' />
-        </video>
-        <script type="text/javascript">
-            // 設置flash路徑，用於在videojs發現瀏覽器不支援HTML5播放機的時候自動喚起flash播放機
-            videojs.options.flash.swf = 'https://cdn.bootcss.com/videojs-swf/5.4.1/video-js.swf';
-              //my-player為頁面video元素的id
-            var player = videojs('my-player'); 
-              //播放
-            player.play(); 
-            //    1. 播放   player.play()
-            //    2. 停止   player.pause()
-            //    3. 暂停   player.pause()
-        </script>
 		
     <!-- 說明網址 https://ithelp.ithome.com.tw/articles/10206181 -->
     <!--    
