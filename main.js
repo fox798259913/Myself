@@ -6,7 +6,7 @@ if (Hls.isSupported()) {
   hls.on(Hls.Events.MEDIA_ATTACHED, function() {
     console.log("video and hls.js are now bound together !");
     hls.loadSource(
-	  "http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8"
+	  "http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8"
     );
   });
 
