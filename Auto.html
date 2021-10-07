@@ -11,49 +11,53 @@
 
 <body>
 	<br><br>
-	<center><a title="優視">優視</a><center>
-	<br>
+	<center>	
+	<!-- 說明網址 https://github.com/video-dev/hls.js/ -->
+	<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+	<!-- Or if you want a more recent alpha version -->
+	<!-- <script src="https://cdn.jsdelivr.net/npm/hls.js@alpha"></script> -->
 
-<center>	
-<!-- 說明網址 https://github.com/video-dev/hls.js/ -->
-<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
-<!-- Or if you want a more recent alpha version -->
-<!-- <script src="https://cdn.jsdelivr.net/npm/hls.js@alpha"></script> -->
-
-<video id="video" controls width="400"></video>
-<script>
-  var video = document.getElementById('video');
-  var videoSrc = 'http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8';
-  if (Hls.isSupported()) {
-    var hls = new Hls();
-    hls.loadSource(videoSrc);
-    hls.attachMedia(video);
-  }
-  // HLS.js is not supported on platforms that do not have Media Source
-  // Extensions (MSE) enabled.
-  //
-  // When the browser has built-in HLS support (check using `canPlayType`),
-  // we can provide an HLS manifest (i.e. .m3u8 URL) directly to the video
-  // element through the `src` property. This is using the built-in support
-  // of the plain video element, without using HLS.js.
-  //
-  // Note: it would be more normal to wait on the 'canplay' event below however
-  // on Safari (where you are most likely to find built-in HLS support) the
-  // video.src URL must be on the user-driven white-list before a 'canplay'
-  // event will be emitted; the last video event that can be reliably
-  // listened-for when the URL is not on the white-list is 'loadedmetadata'.
-  else if (video.canPlayType('application/vnd.apple.mpegurl')) {
-    video.src = videoSrc;
-  }
-</script>
-</center>
-    
+	<video id="video" controls width="400"></video>
+	<script>
+	var video = document.getElementById('video');
+	var videoSrc = 'http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8';
+	if (Hls.isSupported()) {
+		var hls = new Hls();
+		hls.loadSource(videoSrc);
+		hls.attachMedia(video);
+	}
+	// HLS.js is not supported on platforms that do not have Media Source
+	// Extensions (MSE) enabled.
+	//
+	// When the browser has built-in HLS support (check using `canPlayType`),
+	// we can provide an HLS manifest (i.e. .m3u8 URL) directly to the video
+	// element through the `src` property. This is using the built-in support
+	// of the plain video element, without using HLS.js.
+	//
+	// Note: it would be more normal to wait on the 'canplay' event below however
+	// on Safari (where you are most likely to find built-in HLS support) the
+	// video.src URL must be on the user-driven white-list before a 'canplay'
+	// event will be emitted; the last video event that can be reliably
+	// listened-for when the URL is not on the white-list is 'loadedmetadata'.
+	else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+		video.src = videoSrc;
+	}
+	</script>
+	</center>
+    <br>
+    <center><a title="優視">優視</a><center>
 	<br><br>
     
-	<center><a >Sexy K-Pop</a><center>
-    <center><video id="video" controls src="http://93.190.139.36:8278/streams/d/eltazonghe/playlist.m3u8"></video><center>
+	
+    <center><video id="video" controls width="400" src="http://93.190.139.36:8278/streams/d/eltazonghe/playlist.m3u8"></video><center>
     <br>
-
+	<center><a >愛爾達綜合台</a><center>
+    <br><br>
+	
+    <center><video id="video" controls width="400" src="https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8"></video><center>
+    <br>
+	<center><a >Sexy K-Pop</a><center>
+	
 	<!-- 說明網址 https://ithelp.ithome.com.tw/articles/10206181 -->
 	<!--
     <center>
