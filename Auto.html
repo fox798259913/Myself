@@ -18,17 +18,27 @@
 <!-- Or if you want a more recent alpha version -->
 <!-- <script src="https://cdn.jsdelivr.net/npm/hls.js@alpha"></script> -->
 
-<video id="video" controls width="400"></video>
+<video id="video" controls width="400" height="250"></video>
 <script>
   var video = document.getElementById('video');
   var videoSrc = 'http://93.190.139.36:8278/streams/d/eltazonghe/playlist.m3u8';
-  if (Hls.isSupported()) {
+  //if (Hls.isSupported()) {
+  //  var hls = new Hls();
+  //  hls.loadSource(videoSrc);
+  //  hls.attachMedia(video);
+  //}
+  //else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+  //  video.src = videoSrc;
+  //}
+  if (video.canPlayType('application/vnd.apple.mpegurl')) {
+    video.src = videoSrc;
+    //
+    // If no native HLS support, check if HLS.js is supported
+    //
+  } else if (Hls.isSupported()) {
     var hls = new Hls();
     hls.loadSource(videoSrc);
     hls.attachMedia(video);
-  }
-  else if (video.canPlayType('application/vnd.apple.mpegurl')) {
-    video.src = videoSrc;
   }
 </script>
 </center>
