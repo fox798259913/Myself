@@ -6,7 +6,7 @@ if (Hls.isSupported()) {
   hls.on(Hls.Events.MEDIA_ATTACHED, function() {
     console.log("video and hls.js are now bound together !");
     hls.loadSource(
-	  "http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8"
+	  "http://210.210.155.35:80/session/01bdbc8e-a40f-11eb-8209-c81f66f89318/dr9445/h/h20/01.m3u8"
     );
   });
 
