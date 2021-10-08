@@ -5,6 +5,8 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <!--網站 https://segmentfault.com/a/1190000024533271-->
+  <!-- https://www.neverj.com/html5-%e5%a6%82%e4%bd%95%e6%92%ad%e6%94%bem3u8/ 如何撥放m3u8-->
+  <!-- https://www.neverj.com/videojs-%E6%92%AD%E6%94%BErtmp%E5%8D%94%E8%AD%B0%E5%92%8Chls%E5%8D%94%E8%AD%B0%E7%9A%84%E8%A6%96%E9%A0%BB%E6%B5%81/ videojs-播放rtmp協議和hls協議的視頻流-->
   <!--引入播放器樣式-->
   <link href="http://vjs.zencdn.net/7.10.2/video-js.min.css" rel="stylesheet">
   <!--引入播放器js-->  
@@ -114,6 +116,15 @@
 	.Blue {background-color: #008CBA;} /* Blue */
 	.Red {background-color: #cd252d;} /* Red */
 	</style>
+	<script>
+	function ChangeDisabled(value){
+　	if(value=='1'){
+　		document.getElementById('TetstText').disabled=false;　// 變更欄位為可用
+　	}else{
+　	document.getElementById('TetstText').disabled=true;　// 變更欄位為禁用
+	　}
+	}
+	</script>
 </head>
 <body bgcolor=#96dfee>
 	<!--center>
