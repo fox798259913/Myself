@@ -13,23 +13,34 @@
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" crossorigin="anonymous">
   <!--link rel="stylesheet" href="./index.css"-->
   <title>https://stanleychen0924.github.io/Myself/</title>
+  
+    <style>
+			hr.style-five {
+    	border: 0;
+    	height: 0; /* Firefox... */
+    	box-shadow: 0 0 10px 1px black;
+		}
+		hr.style-five:after {  /* Not really supposed to work, but does */
+    	content: "\00a0";  /* Prevent margin collapse */
+		}
+	</style>
   <style>
-.button {
-  border: none;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
-  cursor: pointer;
-}
+		.button {
+  		border: none;
+  		color: white;
+  		padding: 15px 32px;
+  		text-align: center;
+  		text-decoration: none;
+  		display: inline-block;
+  		font-size: 16px;
+  		margin: 4px 2px;
+  		cursor: pointer;
+	}
 
-.Green {background-color: #4CAF50;} /* Green */
-.Blue {background-color: #008CBA;} /* Blue */
-.Red {background-color: #cd252d;} /* Red */
-</style>
+	.Green {background-color: #4CAF50;} /* Green */
+	.Blue {background-color: #008CBA;} /* Blue */
+	.Red {background-color: #cd252d;} /* Red */
+	</style>
 </head>
 <body bgcolor=#96dfee>
 	<!--center>
@@ -73,6 +84,7 @@
     <a target="_blank"  href="http://yielding-meeting.surge.sh/?url=https://pulltv2.wanfudaluye.com/live/tv2.m3u8" title="大愛二台">大愛二台<br></a></center>
     <br> 
     <hr />
+		<hr class="style-five" />
     <hr />
     <br> 
     <center><input class="button Green" onclick="window.open('http://yielding-meeting.surge.sh/?url=rtmp://59.124.75.136/sat/tv051')" value="rtmp" type="submit">
