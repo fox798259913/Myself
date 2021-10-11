@@ -54,7 +54,7 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(youtube-dl -g https://www.youtube.com/watch?v=52unCHc6AV4)
+        $(youtube-dl -g https://www.youtube.com/watch?v=RBLlQUb5A0w)
         EOL
     - name: Get DW.m3u8
       run: |
@@ -180,7 +180,7 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(youtube-dl -g https://www.youtube.com/watch?v=pJ0VgJloR9E)
+        $(youtube-dl -g https://www.youtube.com/watch?v=FoBfXvlOR6I)
         EOL
     - name: Get SETiLiveNews.m3u8
       run: |
