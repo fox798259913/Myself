@@ -109,3 +109,7 @@ https://git.io/JVuG8
 Yahoo,https://video-api.yql.yahoo.com/v1/hlsfilter/4ae2f337-00e1-3666-ab3f-118e8f0cb22a.m3u8?aud=&bitrates=500,1200,2500,2500,4000,6000,300&cdn=edgecast&devtype=desktop&exp=1633569773&format=m3u8&isLive=true&lang=zh-Hant-TW&ps=t7alugv2&region=TW&site=frontpage&try=1
 
 https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/
+
+
+
+https://www.youtube.com/channel/UCPde4guD9yFBRzkxk2PatoA/live
