@@ -92,7 +92,7 @@ https://git.io/JgYl2
 KKBOX華語單曲排行週榜,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/KKBOXch.m3u8
 https://git.io/JgYBe
 
-2021不能不聽的50首歌,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/KKBOX21.m3u8
+2021華語流行歌曲,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/KKBOX21.m3u8
 https://git.io/JgYR5
 https://github.com/StanleyChen0924/Myself/raw/YTlive/KKBOX21.m3u8
 https://git.io/JVbq7
