@@ -107,6 +107,7 @@ Aespa,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/aespa.m3u8
 https://git.io/JVuG8
 
 東森電影台
+http://host496323.us.ooqr.com/pltv/gz.php?id=dsdy
 http://113.64.147.150:808/hls/58/index.m3u8?times=0
 東森洋片台
 http://113.64.147.150:808/hls/59/index.m3u8?times=0
