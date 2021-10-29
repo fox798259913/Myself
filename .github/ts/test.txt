@@ -45,7 +45,7 @@ https://github.com/StanleyChen0924/Myself/raw/YTlive/PTS.m3u8
 https://git.io/JVFBr
 
 公視台語台,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/PTS2.m3u8
-https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/PTS2.m3u8
+https://github.com/StanleyChen0924/Myself/raw/YTlive/PTS2.m3u8
 
 大愛一台,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/DaAiI.m3u8
 https://git.io/Jgkx9
