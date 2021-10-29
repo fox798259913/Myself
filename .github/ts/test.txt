@@ -45,6 +45,7 @@ https://github.com/StanleyChen0924/Myself/raw/YTlive/PTS.m3u8
 https://git.io/JVFBr
 
 公視台語台,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/PTS2.m3u8
+https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/PTS2.m3u8
 
 大愛一台,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/DaAiI.m3u8
 https://git.io/Jgkx9
@@ -108,6 +109,7 @@ https://git.io/JgP6P
 Aespa,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/aespa.m3u8
 https://git.io/JVuG8
 
+FM 107.7 Radio,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/FM107.m3u8
 
 http://sytv.xtvants.fun/mytv.php?id=lhdy&token=free&user=free
 https://www.right.com.cn/FORUM/thread-5467717-1-1.html
