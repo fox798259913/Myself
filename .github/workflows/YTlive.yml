@@ -65,24 +65,6 @@ jobs:
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(youtube-dl -g https://www.youtube.com/watch?v=4tbh25K-vO8)
         EOL
-    - name: Get euronews.m3u8
-      run: |
-        touch ./euronews.m3u8
-        sudo cat >./euronews.m3u8 <<EOL
-        #EXTM3U
-        #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(youtube-dl -g --proxy socks4://114.34.115.110:5678/ https://www.youtube.com/watch?v=sPgqEHsONK8)
-        EOL
-    - name: Get france24.m3u8
-      run: |
-        touch ./france24.m3u8
-        sudo cat >./france24.m3u8 <<EOL
-        #EXTM3U
-        #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(youtube-dl -g https://www.youtube.com/watch?v=aHh8rA0hks8)
-        EOL
     - name: Get hyxw.m3u8
       run: |
         touch ./hyxw.m3u8
@@ -136,24 +118,6 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(youtube-dl -g https://www.youtube.com/channel/UCTTq-Hhcb_eUq0-dWpdlvpg/live)
-        EOL
-    - name: Get parliamentarytv1.m3u8
-      run: |
-        touch ./parliamentarytv1.m3u8
-        sudo cat >./parliamentarytv1.m3u8 <<EOL
-        #EXTM3U
-        #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(youtube-dl -g https://www.youtube.com/watch?v=PQLMD4iHhG8)
-        EOL
-    - name: Get parliamentarytv2.m3u8
-      run: |
-        touch ./parliamentarytv2.m3u8
-        sudo cat >./parliamentarytv2.m3u8 <<EOL
-        #EXTM3U
-        #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(youtube-dl -g https://www.youtube.com/watch?v=T8dcZHk4xWs)
         EOL
     - name: Get CTVNews.m3u8
       run: |
@@ -342,15 +306,6 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(youtube-dl -g https://www.youtube.com/watch?v=NJvaGDTJEQU)
-        EOL
-    - name: Get aespa.m3u8
-      run: |
-        touch ./aespa.m3u8
-        sudo cat >./aespa.m3u8 <<EOL
-        #EXTM3U
-        #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(youtube-dl -g https://www.youtube.com/playlist?list=PLinm7-cvTdN6n9zc_0ggVNpWwiuKFGCVJ|Referer=https://www.youtube.com)
         EOL
     - name: Get hsxw.m3u8
       run: |
