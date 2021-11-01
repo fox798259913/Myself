@@ -110,6 +110,15 @@ jobs:
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(youtube-dl -g https://www.youtube.com/channel/UCX6SRupi5lTDbIFJEOpReCQ/live)
         EOL
+    - name: Get PTS22.m3u8
+      run: |
+        touch ./PTS22.m3u8
+        sudo cat >./PTS22.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(youtube-dl -g --proxy socks4://210.61.216.66:33990/ https://www.youtube.com/watch?v=cnYQ_z7QfxE)
+        EOL
     - name: Get FM107.m3u8
       run: |
         touch ./FM107.m3u8
