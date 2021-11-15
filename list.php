@@ -1,7 +1,7 @@
 ﻿<?php
 header('Content-Type: text/json;charset=UTF-8');
 $dir=dirname(__FILE__);
-$files = 'https://raw.githubusercontent.com/StanleyChen0924/Myself/main/list/*.txt';
+$files = glob('https://raw.githubusercontent.com/StanleyChen0924/Myself/main/list/*.txt');
 $result='';
 foreach ($files as $file) {
         $fsize=filesize($file);
