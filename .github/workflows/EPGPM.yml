@@ -39,8 +39,8 @@ jobs:
     - name : Upload artifact
       uses: actions/upload-artifact@master
       with:
-        name: guide.xml
-        path: .wg++/guide.xml
+        name: guidePM.xml
+        path: .wg++/guidePM.xml
     - name: Git push assets to "EPGPM" branch
       run: |
         cd .wg++
