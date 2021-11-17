@@ -1,0 +1,32 @@
+﻿[        ] 
+[        ]            WebGrab+Plus/w MDB & REX Postprocess -- version  V3.2.0.0            
+[        ] 
+[        ]                                 Jan van Straaten                                
+[        ]                              Francis De Paemeleere                              
+[        ] 
+[        ]             thanks to Paul Weterings and all the contributing users             
+[        ] --------------------------------------------------------------------------------
+[        ] 
+[        ] Job started at 17/11/2021 04:28:48
+[  Debug ] 
+[  Debug ] Running  on: Unix 5.4.0.1062
+[  Debug ] Environment: 4.0.30319.42000
+[  Debug ] Mono version: 6.12.0.122 (tarball Mon Feb 22 17:29:18 UTC 2021)
+[  Debug ] 
+[  Debug ] Loading timezone data
+[  Debug ] Embedded timezones source: timezone.timezonesdata.txt
+[  Debug ] Reading config file: /home/runner/work/Myself/Myself/.wg++/./WebGrab++.config.xml
+[        ] Job finished at 17/11/2021 04:28:49 done in 1s
+[Critical] 
+[Error   ] WG.Common.InvalidConfigException: [Error   ] Config file doesn't contain the root node <settings>
+  at  . ..ctor (System.String ) [0x0009e] in <129dec1b18b44cf8b0b8a855b00404bf>:0 
+[Critical] 
+  at  . ..ctor (System.String ) [0x0137c] in <129dec1b18b44cf8b0b8a855b00404bf>:0 
+  at  .―.  (System.String[] ) [0x00351] in <129dec1b18b44cf8b0b8a855b00404bf>:0 
+[Critical] Config syntax exception:
+[Critical]       file: /home/runner/work/Myself/Myself/.wg++/./WebGrab++.config.xml
+[Critical]    message: 
+[Error   ] WG.Common.InvalidConfigException: [Error   ] Config file doesn't contain the root node <settings>
+  at  . ..ctor (System.String ) [0x0009e] in <129dec1b18b44cf8b0b8a855b00404bf>:0 
+[Critical] For detailed info, see log file /home/runner/work/Myself/Myself/.wg++/./WebGrab++.log.txt
+[Critical] Execution stopped
