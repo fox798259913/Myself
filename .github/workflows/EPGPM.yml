@@ -36,7 +36,7 @@ jobs:
     - name: Merge EPGPM
       run: |
         cd .wg++
-        tv_cat guide.xml > TW.xml
+        tv_cat guidePM.xml > TW.xml
         tv_cat TW.xml ott_xmltv.xml > guide_merge.xml
     - name : Upload artifact
       uses: actions/upload-artifact@master
