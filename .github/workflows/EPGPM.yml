@@ -25,21 +25,17 @@ jobs:
       run: |
         cd .wg++
         ./run.sh
-    - name: Download Other EPGPM
+    - name: Download Other EPG
       run: |
         cd .wg++
         wget https://files.3y1.xyz/static/sitemap/ott_xmltv.xml
-        wget http://www.webgrabplus.com/sites/default/files/user/mat8861/epg.pm_rev1.zip
-        gunzip ./epg_ripper_TW.xml.gz
     - name: Install xmltv
       run: |
         sudo apt update
         sudo apt -y install xmltv
-    - name: Merge EPG
+    - name: Merge EPGPM
       run: |
         cd .wg++
-        tv_cat guide.xml epg_ripper_TW.xml > TW.xml
-        tv_cat TW.xml e.xml > guide_merge.xml
     - name : Upload artifact
       uses: actions/upload-artifact@master
       with:
@@ -51,8 +47,8 @@ jobs:
         git init
         git config --local user.name "actions"
         git config --local user.email "action@github.com"
-        git checkout -b EPG
+        git checkout -b EPGPM
         git add .
-        git commit -m "Update EPG"
+        git commit -m "Update EPGPM"
         git remote add origin "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}"
-        git push -f -u origin EPG
+        git push -f -u origin EPGPM
