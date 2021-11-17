@@ -20,7 +20,7 @@ jobs:
     - name: Download WebGrab++.config.xml
       run: |
         cd .wg++
-        wget -N https://raw.githubusercontent.com//StanleyChen0924/IPTV/main/WebGrab++.config.xml
+        wget -N https://raw.githubusercontent.com/StanleyChen0924/Myself/main/WebGrab++.config.xml
     - name: Run
       run: |
         cd .wg++
