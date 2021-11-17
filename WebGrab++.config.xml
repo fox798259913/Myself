@@ -21,12 +21,9 @@
   
             For the latest version,
             see http://webgrabplus.com/epg-channels for the available sites/channels
-  
-
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.4.1 -- Jan van Straaten" site="epg.pm">
-  <channels>
   -->
-    <channel update="i" site="epg.pm" site_id="2589" xmltv_id="台视财经台">台视财经台</channel>
+
+	<channel update="i" site="epg.pm" site_id="2589" xmltv_id="台视财经台">台视财经台</channel>
     <channel update="i" site="epg.pm" site_id="2590" xmltv_id="CCTV1">CCTV1</channel>
     <channel update="i" site="epg.pm" site_id="2591" xmltv_id="CCTV2">CCTV2</channel>
     <channel update="i" site="epg.pm" site_id="2592" xmltv_id="CCTV3">CCTV3</channel>
