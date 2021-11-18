@@ -1,384 +1,383 @@
-Live,#genre#
-°ê®a¤H¤å,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910ca6
-WAKUWAKU,rtmp://104.149.141.122/channel/60b4e50239e1b02e8b910d38
+åœ‹å®¶äººæ–‡,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910ca6
+WAKUWAKU,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d38
 BBC Lifestyle,rtmp://104.149.141.122/channel/60b4e50239e1b02e8b910cba
-History¾ú¥v,rtmp://104.149.141.122/channel/60b4e50239e1b02e8b910cee
-History ¾ú¥v2,rtmp://104.149.141.122/channel/60b4e50239e1b02e8b910cec
+Historyæ­·å²,rtmp://104.149.141.122/channel/60b4e50239e1b02e8b910cee
+History æ­·å²2,rtmp://104.149.141.122/channel/60b4e50239e1b02e8b910cec
 FRANCE24,rtmp://45.88.148.122/channel/611c85843e4da143c01598f3
-¥ÁµøHD,rtmp://45.92.126.226/channel/60c317bd961593122ebaf90a
-¦n®ø®§2,rtmp://104.149.141.122/channel/61000cf1f0618408855f36c2
-¥xµøHD,rtmp://104.149.141.122/channel/60b4e50239e1b02e8b910c44
-¤j·R,rtmp://45.88.148.114/channel/60b4e50239e1b02e8b910c7a
-¤¤µøHD,rtmp://45.92.126.114/channel/60c3166c961593122ebaf8fe
-ÅRÆE¥xÆW¥x,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910c72
-µØµøHD,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910c4c
-¤½µø,rtmp://45.92.126.114/channel/60c3176f961593122ebaf906
-¤H¶¡½Ãµø,rtmp://45.88.148.114/channel/60b4e50239e1b02e8b910c52
-¦n®ø®§,rtmp://45.88.148.178/channel/60c31888961593122ebaf912
-­ì¥Á¥x,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910c42
-«È®a¹qµø¥x,rtmp://45.92.126.226/channel/61003b23f0618408855f3748
-°ê®a¦a²z°ªµe½è,rtmp://104.149.141.122/channel/60b4e50239e1b02e8b910d1e
-±´¯Á,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d6e
+æ°‘è¦–HD,rtmp://45.92.126.226/channel/60c317bd961593122ebaf90a
+å¥½æ¶ˆæ¯2,rtmp://104.149.141.122/channel/61000cf1f0618408855f36c2
+å°è¦–HD,rtmp://104.149.141.122/channel/60b4e50239e1b02e8b910c44
+å¤§æ„›,rtmp://45.88.148.114/channel/60b4e50239e1b02e8b910c7a
+ä¸­è¦–HD,rtmp://45.92.126.114/channel/60c3166c961593122ebaf8fe
+éœ¹é‚å°ç£å°,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910c72
+è¯è¦–HD,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910c4c
+å…¬è¦–,rtmp://45.92.126.114/channel/60c3176f961593122ebaf906
+äººé–“è¡›è¦–,rtmp://45.88.148.114/channel/60b4e50239e1b02e8b910c52
+å¥½æ¶ˆæ¯,rtmp://45.88.148.178/channel/60c31888961593122ebaf912
+åŸæ°‘å°,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910c42
+å®¢å®¶é›»è¦–å°,rtmp://45.92.126.226/channel/61003b23f0618408855f3748
+åœ‹å®¶åœ°ç†é«˜ç•«è³ª,rtmp://104.149.141.122/channel/60b4e50239e1b02e8b910d1e
+æ¢ç´¢,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d6e
 TLC,rtmp://45.88.148.114/channel/60b4e50239e1b02e8b910cfa
-°Êª«¬P²y,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d6c
-CN¥d³qÀW¹D,rtmp://104.149.130.142/channel/60f451628dfe8209677fda46
-­}¤h¥§ ,rtmp://104.149.131.118/channel/60f451968dfe8209677fda48
-MOMO¿Ë¤l,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910cc8
-ªF´Ë¥®¥®,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d84
-½n¨Óºî¦X,rtmp://104.149.131.118/channel/60c312b7961593122ebaf8f1
-¤K¤j²Ä¤@,rtmp://104.149.131.118/channel/60c31d07961593122ebaf92d
-¤K¤jºî¦X,rtmp://45.83.118.242/channel/60c31c5a961593122ebaf92b
-¤T¥ß¥xÆW,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910c78
-¤T¥ß³£·|¥x,rtmp://45.92.126.226/channel/60c53f4a961593122ebafa48
-½Ãµø¤¤¤å,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910cc4
-«H¦N¹qµø,rtmp://104.149.131.118/channel/611a83ad3e4da143c0159880
-ªF´Ëºî¦X,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910d86
-ªF´Ë¶Wµø,rtmp://104.149.130.142/channel/60b4e50239e1b02e8b910d8e
-°ê®a³¥¥Í,rtmp://104.149.141.122/channel/60b4e50239e1b02e8b910d22
-ÀsµØ°¸¹³,rtmp://104.149.131.118/channel/60b4e50239e1b02e8b910d48
-±´¯Á®È¹C¥Í¬¡,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d76
-¤¤¤Ñºî¦X,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910d90
-±´¯Á¨È¬w,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910d70
-¤¤¤Ñ®T¼Ö,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910c94
-¦~¥NMUCH,rtmp://104.149.131.118/channel/611a835f3e4da143c015987e
-ªF´ËÀ¸¼@,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d88
-¹t¤ÑÀ¸¼@,rtmp://104.149.131.118/channel/60c343f1961593122ebaf998
-ªF­·½Ãµø,rtmp://104.149.141.122/channel/610ab00d3e4da143c01581ce
-¤K¤jÀ¸¼@,rtmp://45.83.118.242/channel/60c31d53961593122ebaf92f
-TVBSºë±m,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910cd8
-½n¨ÓÀ¸¼@,rtmp://104.149.131.118/channel/60b4e50239e1b02e8b910c9a
-°ªÂIºî¦X,rtmp://45.88.148.122/channel/6100120ff0618408855f36dd
-JET ºî¦X,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c74
-µØÃÀºî¦X,rtmp://104.149.141.122/channel/60b4e50239e1b02e8b910cfe
-ETtodayºî¦X¥x,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d3a
+å‹•ç‰©æ˜Ÿçƒ,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d6c
+CNå¡é€šé »é“,rtmp://104.149.130.142/channel/60f451628dfe8209677fda46
+è¿ªå£«å°¼ ,rtmp://104.149.131.118/channel/60f451968dfe8209677fda48
+MOMOè¦ªå­,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910cc8
+æ±æ£®å¹¼å¹¼,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d84
+ç·¯ä¾†ç¶œåˆ,rtmp://104.149.131.118/channel/60c312b7961593122ebaf8f1
+å…«å¤§ç¬¬ä¸€,rtmp://104.149.131.118/channel/60c31d07961593122ebaf92d
+å…«å¤§ç¶œåˆ,rtmp://45.83.118.242/channel/60c31c5a961593122ebaf92b
+ä¸‰ç«‹å°ç£,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910c78
+ä¸‰ç«‹éƒ½æœƒå°,rtmp://45.92.126.226/channel/60c53f4a961593122ebafa48
+è¡›è¦–ä¸­æ–‡,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910cc4
+ä¿¡å‰é›»è¦–,rtmp://104.149.131.118/channel/611a83ad3e4da143c0159880
+æ±æ£®ç¶œåˆ,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910d86
+æ±æ£®è¶…è¦–,rtmp://104.149.130.142/channel/60b4e50239e1b02e8b910d8e
+åœ‹å®¶é‡ç”Ÿ,rtmp://104.149.141.122/channel/60b4e50239e1b02e8b910d22
+é¾è¯å¶åƒ,rtmp://104.149.131.118/channel/60b4e50239e1b02e8b910d48
+æ¢ç´¢æ—…éŠç”Ÿæ´»,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d76
+ä¸­å¤©ç¶œåˆ,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910d90
+æ¢ç´¢äºæ´²,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910d70
+ä¸­å¤©å¨›æ¨‚,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910c94
+å¹´ä»£MUCH,rtmp://104.149.131.118/channel/611a835f3e4da143c015987e
+æ±æ£®æˆ²åŠ‡,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d88
+é–å¤©æˆ²åŠ‡,rtmp://104.149.131.118/channel/60c343f1961593122ebaf998
+æ±é¢¨è¡›è¦–,rtmp://104.149.141.122/channel/610ab00d3e4da143c01581ce
+å…«å¤§æˆ²åŠ‡,rtmp://45.83.118.242/channel/60c31d53961593122ebaf92f
+TVBSç²¾å½©,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910cd8
+ç·¯ä¾†æˆ²åŠ‡,rtmp://104.149.131.118/channel/60b4e50239e1b02e8b910c9a
+é«˜é»ç¶œåˆ,rtmp://45.88.148.122/channel/6100120ff0618408855f36dd
+JET ç¶œåˆ,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c74
+è¯è—ç¶œåˆ,rtmp://104.149.141.122/channel/60b4e50239e1b02e8b910cfe
+ETtodayç¶œåˆå°,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d3a
 BLUE ANT Entertainment,rtmp://104.149.130.142/channel/60b4e50239e1b02e8b910cc2
-¾È¦tºî¦X,rtmp://104.149.130.142/channel/60b4e50239e1b02e8b910d24
-³ü·s»D,rtmp://104.149.130.142/channel/60b4e50239e1b02e8b910c76
-¦~¥N·s»D¥x,rtmp://45.88.148.178/channel/60c3181e961593122ebaf90e
-ªF´Ë·s»D,rtmp://45.88.148.178/channel/6100144cf0618408855f36e1
-¤¤¤Ñ·s»D,rtmp://104.149.131.118/channel/60c0817583c8fd233ad0a1f4
-¬P½Ã®T¼Ö,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d3c
-¥Áµø·s»D¥x,rtmp://45.83.118.242/channel/60c461de961593122ebafa2c
-¤T¥ß·s»D,rtmp://45.92.126.114/channel/60b4e50239e1b02e8b910c7c
-TVBS·s»D,rtmp://45.88.148.114/channel/60b4e50239e1b02e8b910c7e
+å¯°å®‡ç¶œåˆ,rtmp://104.149.130.142/channel/60b4e50239e1b02e8b910d24
+å£¹æ–°è,rtmp://104.149.130.142/channel/60b4e50239e1b02e8b910c76
+å¹´ä»£æ–°èå°,rtmp://45.88.148.178/channel/60c3181e961593122ebaf90e
+æ±æ£®æ–°è,rtmp://45.88.148.178/channel/6100144cf0618408855f36e1
+ä¸­å¤©æ–°è,rtmp://104.149.131.118/channel/60c0817583c8fd233ad0a1f4
+æ˜Ÿè¡›å¨›æ¨‚,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d3c
+æ°‘è¦–æ–°èå°,rtmp://45.83.118.242/channel/60c461de961593122ebafa2c
+ä¸‰ç«‹æ–°è,rtmp://45.92.126.114/channel/60b4e50239e1b02e8b910c7c
+TVBSæ–°è,rtmp://45.88.148.114/channel/60b4e50239e1b02e8b910c7e
 TVBS HD,rtmp://45.88.148.114/channel/60b4e50239e1b02e8b910c90
-ªF´Ë°]¸g,rtmp://104.149.141.122/channel/60b4e50239e1b02e8b910c84
-«D¤Z·s»D,rtmp://45.83.118.242/channel/60b4e50239e1b02e8b910c86
-ªk°ê®É¸Ë,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910c5c
-ZÀW¹D,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d64
-¤¤¤Ñ¨È¬w,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910d94
+æ±æ£®è²¡ç¶“,rtmp://104.149.141.122/channel/60b4e50239e1b02e8b910c84
+éå‡¡æ–°è,rtmp://45.83.118.242/channel/60b4e50239e1b02e8b910c86
+æ³•åœ‹æ™‚è£,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910c5c
+Zé »é“,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d64
+ä¸­å¤©äºæ´²,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910d94
 NHK world NEWS,rtmp://45.88.148.178/channel/60c2f4fb961593122ebaf8d0
-½Ãµø¹q¼v,rtmp://104.149.141.122/channel/60b4e50239e1b02e8b910cc6
-EYETVÀ¸¼@,rtmp://104.149.141.122/channel/60b4e50239e1b02e8b910cbc
-½n¨Ó¨|¼Ö,rtmp://45.92.126.226/channel/60c31357961593122ebaf8f8
-ªF´Ë¬v¤ù,rtmp://104.149.131.118/channel/60b4e50239e1b02e8b910d8c
-AXN,rtmp://45.12.113.194/channel/60b4e50239e1b02e8b910c9c
-¤K¤j®T¼Ö,rtmp://45.88.148.122/channel/60c31db1961593122ebaf931
-¦nµÜ¶õ,rtmp://104.149.141.122/channel/60b4e50239e1b02e8b910c92
+è¡›è¦–é›»å½±,rtmp://104.149.141.122/channel/60b4e50239e1b02e8b910cc6
+EYETVæˆ²åŠ‡,rtmp://104.149.141.122/channel/60b4e50239e1b02e8b910cbc
+ç·¯ä¾†è‚²æ¨‚,rtmp://45.92.126.226/channel/60c31357961593122ebaf8f8
+æ±æ£®æ´‹ç‰‡,rtmp://104.149.131.118/channel/60b4e50239e1b02e8b910d8c
+AXN,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c9c
+å…«å¤§å¨›æ¨‚,rtmp://45.88.148.122/channel/60c31db1961593122ebaf931
+å¥½èŠå¡¢,rtmp://104.149.141.122/channel/60b4e50239e1b02e8b910c92
 FOX,rtmp://104.149.130.142/channel/60b4e50239e1b02e8b910ca0
-¹t¤Ñ¨|¼Ö,rtmp://104.149.131.118/channel/60c34368961593122ebaf992
-½n¨Óºëªö,rtmp://104.149.131.118/channel/60b4e50239e1b02e8b910d2e
-½n¨ÓÅé¨|,rtmp://104.149.131.118/channel/60c3138a961593122ebaf8fa
+é–å¤©è‚²æ¨‚,rtmp://104.149.131.118/channel/60c34368961593122ebaf992
+ç·¯ä¾†ç²¾é‡‡,rtmp://104.149.131.118/channel/60b4e50239e1b02e8b910d2e
+ç·¯ä¾†é«”è‚²,rtmp://104.149.131.118/channel/60c3138a961593122ebaf8fa
 Eleven Sports1,rtmp://104.149.131.118/channel/60b4e50239e1b02e8b910d60
-¯T¨¦¨|¼Ö,rtmp://104.149.141.122/channel/61002279f0618408855f36f1
+ç‹¼è°·è‚²æ¨‚,rtmp://104.149.141.122/channel/61002279f0618408855f36f1
 Eleven Sports2,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d62
-·Rº¸¹FÅé¨|1,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cb4
-³Õ´µ¹B°Ê¤@¥x,rtmp://104.149.141.122/channel/610a2b8503524b0155f2346a
-EYE®È¹C¥x,rtmp://104.149.141.122/channel/60b4e50239e1b02e8b910cf8
-½n¨Ó¤é¥»,rtmp://45.92.126.114/channel/60c312ed961593122ebaf8f3
-°ê¿³½Ãµø,rtmp://104.149.130.142/channel/60c31c32961593122ebaf929
+æ„›çˆ¾é”é«”è‚²1,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cb4
+åšæ–¯é‹å‹•ä¸€å°,rtmp://104.149.141.122/channel/610a2b8503524b0155f2346a
+EYEæ—…éŠå°,rtmp://104.149.141.122/channel/60b4e50239e1b02e8b910cf8
+ç·¯ä¾†æ—¥æœ¬,rtmp://45.92.126.114/channel/60c312ed961593122ebaf8f3
+åœ‹èˆˆè¡›è¦–,rtmp://104.149.130.142/channel/60c31c32961593122ebaf929
 ChannelV,rtmp://104.149.141.122/channel/60b4e50239e1b02e8b910ce6
-¨È¬w®È¹C,rtmp://104.149.141.122/channel/60b4e50239e1b02e8b910d0e
+äºæ´²æ—…éŠ,rtmp://104.149.141.122/channel/60b4e50239e1b02e8b910d0e
 CNN,rtmp://104.149.141.122/channel/60b4e50239e1b02e8b910c6e
-·Rº¸¹FÅé¨|2,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cb6
-·Rº¸¹Fºî¦X,rtmp://104.149.131.118/channel/60b4e50239e1b02e8b910d46
-¹t¤Ñºî¦X,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d50
-EVE±´¯Á®a®x,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cf4
-¾È¦t·s»D,rtmp://104.149.130.142/channel/60b4e50239e1b02e8b910d08
-¾È¦t·s»D¤G¥x,rtmp://104.149.130.142/channel/60b4e50239e1b02e8b910d26
+æ„›çˆ¾é”é«”è‚²2,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cb6
+æ„›çˆ¾é”ç¶œåˆ,rtmp://104.149.131.118/channel/60b4e50239e1b02e8b910d46
+é–å¤©ç¶œåˆ,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d50
+EVEæ¢ç´¢å®¶åº­,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cf4
+å¯°å®‡æ–°è,rtmp://104.149.130.142/channel/60b4e50239e1b02e8b910d08
+å¯°å®‡æ–°èäºŒå°,rtmp://104.149.130.142/channel/60b4e50239e1b02e8b910d26
 BBC World News,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d42
-·Rº¸¹FÅé¨|3,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cb8
-­»´ä¦³½u·s»D,rtmp://45.88.148.122/channel/60c2d2bd961593122ebaf8b7
-·s¥[©Y¨È¬w·s»D,rtmp://45.88.148.178/channel/60c2f49c961593122ebaf8cd
-¥d¹F¥b®q,rtmp://45.88.148.178/channel/60c2f52d961593122ebaf8d2
+æ„›çˆ¾é”é«”è‚²3,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cb8
+é¦™æ¸¯æœ‰ç·šæ–°è,rtmp://45.88.148.122/channel/60c2d2bd961593122ebaf8b7
+æ–°åŠ å¡äºæ´²æ–°è,rtmp://45.88.148.178/channel/60c2f49c961593122ebaf8cd
+å¡é”åŠå³¶,rtmp://45.88.148.178/channel/60c2f52d961593122ebaf8d2
 TV-5,rtmp://45.88.148.178/channel/60c2f5bb961593122ebaf8d4
 DW-TV,rtmp://45.88.148.178/channel/60c2f625961593122ebaf8d6
 TV5 Monde,rtmp://104.149.141.122/channel/60c30e75961593122ebaf8ed
 sky-news,rtmp://104.149.130.142/channel/60c31287961593122ebaf8ef
-¤T¥ßºî¦X¥x,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910d28
-¤T¥ßÀ¸¼@¥x,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910d30
-¹t¤Ñ¸ê°T,rtmp://45.12.113.194/channel/60b4e50239e1b02e8b910d5a
-¼Ú¬w·s»D,rtmp://45.92.126.226/channel/61002dbef0618408855f370f
-¹t¬vÀ¸¼@¥x,rtmp://104.149.131.118/channel/60b4e50239e1b02e8b910d1a
-¹t¤ÑÅw¼Ö,rtmp://45.88.148.178/channel/60c343c5961593122ebaf996
-¤T¥ß°]¸g,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910d04
+ä¸‰ç«‹ç¶œåˆå°,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910d28
+ä¸‰ç«‹æˆ²åŠ‡å°,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910d30
+é–å¤©è³‡è¨Š,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d5a
+æ­æ´²æ–°è,rtmp://45.92.126.226/channel/61002dbef0618408855f370f
+é–æ´‹æˆ²åŠ‡å°,rtmp://104.149.131.118/channel/60b4e50239e1b02e8b910d1a
+é–å¤©æ­¡æ¨‚,rtmp://45.88.148.178/channel/60c343c5961593122ebaf996
+ä¸‰ç«‹è²¡ç¶“,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910d04
 MTV LIVE,rtmp://104.149.141.122/channel/60b4e50239e1b02e8b910cde
 CNBC,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d44
-¾È¦t°]¸g,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d4e
-FOOD¬ü­¹,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cd6
-¨È¬w¬ü­¹,rtmp://104.149.141.122/channel/60b4e50239e1b02e8b910d00
-³Õ´µ°ª²y2,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cd0
-¹t¤Ñ¤é¥»,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d54
+å¯°å®‡è²¡ç¶“,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d4e
+FOODç¾é£Ÿ,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cd6
+äºæ´²ç¾é£Ÿ,rtmp://104.149.141.122/channel/60b4e50239e1b02e8b910d00
+åšæ–¯é«˜çƒ2,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cd0
+é–å¤©æ—¥æœ¬,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d54
 NEWS24,rtmp://45.92.126.114/channel/6130ffd5c6f62a25d2da2181
-FIGHTING TV ????  124 H,rtmp://45.92.126.114/channel/61310016c6f62a25d2da2183
+FIGHTING TV ã‚µãƒ ãƒ©ã‚¤ 124 H,rtmp://45.92.126.114/channel/61310016c6f62a25d2da2183
 Outdoor,rtmp://45.92.126.114/channel/60c2f692961593122ebaf8da
 CLASSICA HD,rtmp://104.149.141.122/channel/60c30ac7961593122ebaf8e2
 GOLF,rtmp://45.92.126.114/channel/60c30afc961593122ebaf8e4
-ÀsµØ¼v¼@,rtmp://45.88.148.114/channel/60b4e50239e1b02e8b910cc0
+é¾è¯å½±åŠ‡,rtmp://45.88.148.114/channel/60b4e50239e1b02e8b910cc0
 FIGHT,rtmp://45.88.148.122/channel/60c30e2d961593122ebaf8ea
-¬ü­¹¬P²y,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d4a
-«lÃzÅé¨|,rtmp://45.88.148.178/channel/60ecda94020b42a2f634be05
-³Õ´µ°ª²y1,rtmp://104.149.131.118/channel/610a2ac603524b0155f23466
-³Õ´µºô²y,rtmp://104.149.131.118/channel/610a2b2f03524b0155f23468
+ç¾é£Ÿæ˜Ÿçƒ,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d4a
+å‹çˆ†é«”è‚²,rtmp://45.88.148.178/channel/60ecda94020b42a2f634be05
+åšæ–¯é«˜çƒ1,rtmp://104.149.131.118/channel/610a2ac603524b0155f23466
+åšæ–¯ç¶²çƒ,rtmp://104.149.131.118/channel/610a2b2f03524b0155f23468
 Disney XD Japan,rtmp://45.92.126.114/channel/61310363c6f62a25d2da2197
-³Õ´µ¹B°Ê¤G¥x,rtmp://104.149.141.122/channel/610a2bdf03524b0155f2346c
-³Õ´µ¾y¤O,rtmp://45.88.148.122/channel/610a3b7e03524b0155f23475
-?¹D?????,rtmp://45.92.126.114/channel/6130ff85c6f62a25d2da217f
-¹t¤Ñ¥d³q,rtmp://45.88.148.122/channel/60c344f6961593122ebaf9a2
-±´¯Á¬ì¾Ç,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d72
-MTV­µ¼Ö¥x,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d82
-ªö©÷À¸¼@,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910cd4
-¤¤µø·s»DHD,rtmp://45.92.126.226/channel/60c316c5961593122ebaf900
+åšæ–¯é‹å‹•äºŒå°,rtmp://104.149.141.122/channel/610a2bdf03524b0155f2346c
+åšæ–¯é­…åŠ›,rtmp://45.88.148.122/channel/610a3b7e03524b0155f23475
+é‰„é“ãƒãƒ£ãƒ³ãƒãƒ«,rtmp://45.92.126.114/channel/6130ff85c6f62a25d2da217f
+é–å¤©å¡é€š,rtmp://45.88.148.122/channel/60c344f6961593122ebaf9a2
+æ¢ç´¢ç§‘å­¸,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d72
+MTVéŸ³æ¨‚å°,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d82
+é‡‡æ˜Œæˆ²åŠ‡,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910cd4
+ä¸­è¦–æ–°èHD,rtmp://45.92.126.226/channel/60c316c5961593122ebaf900
 LUXE TV,rtmp://104.149.141.122/channel/60b4e50239e1b02e8b910ce2
-¿Dªù½¬ªá½Ãµø,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910c5a
-©ú¯]¥x,rtmp://104.149.153.106/channel/60b4e50239e1b02e8b910c62
-¬Pªe?¹D,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d7a
-ªk°ê®É©|ºÆ,rtmp://45.88.148.114/channel/61004184f0618408855f3758
-¦³½u18¥x,rtmp://45.88.148.122/channel/60c2d2f9961593122ebaf8b9
-¦³½u°]¸g¸ê°T,rtmp://45.88.148.122/channel/60c2d336961593122ebaf8bb
-¦³½u603°ª²M,rtmp://45.88.148.122/channel/60c2d3a9961593122ebaf8bd
-????¡I???¢â¢ä ¢Ö¢Ò,rtmp://45.92.126.114/channel/61319c6ec6f62a25d2da21c1
-ºÖ§J´µ¹q¼v,rtmp://45.88.148.122/channel/60c2d575961593122ebaf8bf
+æ¾³é–€è“®èŠ±è¡›è¦–,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910c5a
+æ˜ç å°,rtmp://104.149.153.106/channel/60b4e50239e1b02e8b910c62
+æ˜Ÿæ²³é¢‘é“,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d7a
+æ³•åœ‹æ™‚å°šç˜‹,rtmp://45.88.148.114/channel/61004184f0618408855f3758
+æœ‰ç·š18å°,rtmp://45.88.148.122/channel/60c2d2f9961593122ebaf8b9
+æœ‰ç·šè²¡ç¶“è³‡è¨Š,rtmp://45.88.148.122/channel/60c2d336961593122ebaf8bb
+æœ‰ç·š603é«˜æ¸…,rtmp://45.88.148.122/channel/60c2d3a9961593122ebaf8bd
+ã‚¹ãƒ¼ãƒ‘ãƒ¼ï¼ãƒ‰ãƒ©ãƒï¼´ï¼¶ ï¼¨ï¼¤,rtmp://45.92.126.114/channel/61319c6ec6f62a25d2da21c1
+ç¦å…‹æ–¯é›»å½±,rtmp://45.88.148.122/channel/60c2d575961593122ebaf8bf
 MONDO TV HD,rtmp://45.92.126.114/channel/61319d21c6f62a25d2da21c5
-¦³½uºî¦X®T¼Ö,rtmp://45.88.148.122/channel/60c2f289961593122ebaf8c1
-?????????,rtmp://45.92.126.114/channel/6132218dc6f62a25d2da21ce
-Sport Plus 1 HD¡]??602),rtmp://45.88.148.122/channel/60c2f2c0961593122ebaf8c3
-?????????,rtmp://45.92.126.114/channel/6131031fc6f62a25d2da2195
-¢Ğ¢Ğ¢Ñ????????,rtmp://45.92.126.114/channel/6132224ac6f62a25d2da21d2
-»ñ°Ä½Ãµø¤¤¤å,rtmp://45.88.148.178/channel/60c2f331961593122ebaf8c7
+æœ‰ç·šç¶œåˆå¨›æ¨‚,rtmp://45.88.148.122/channel/60c2f289961593122ebaf8c1
+ã‚´ãƒ«ãƒ•ãƒãƒƒãƒˆãƒ¯ãƒ¼ã‚¯,rtmp://45.92.126.114/channel/6132218dc6f62a25d2da21ce
+Sport Plus 1 HDï¼ˆå¥¥è¿602),rtmp://45.88.148.122/channel/60c2f2c0961593122ebaf8c3
+ã‚¢ãƒ‹ãƒãƒ«ãƒ—ãƒ©ãƒãƒƒãƒˆ,rtmp://45.92.126.114/channel/6131031fc6f62a25d2da2195
+ï¼¢ï¼¢ï¼£ãƒ¯ãƒ¼ãƒ«ãƒ‰ãƒ‹ãƒ¥ãƒ¼ã‚¹,rtmp://45.92.126.114/channel/6132224ac6f62a25d2da21d2
+é³³å‡°è¡›è¦–ä¸­æ–‡,rtmp://45.88.148.178/channel/60c2f331961593122ebaf8c7
 CNN/US HD,rtmp://45.92.126.114/channel/6132238ec6f62a25d2da21d4
-»ñ°Ä½Ãµø­»´ä,rtmp://45.88.148.178/channel/60c2f428961593122ebaf8c9
-????????¢°,rtmp://45.92.126.114/channel/613103a6c6f62a25d2da2199
+é³³å‡°è¡›è¦–é¦™æ¸¯,rtmp://45.88.148.178/channel/60c2f428961593122ebaf8c9
+ã‚¹ã‚¿ãƒ¼ãƒãƒ£ãƒ³ãƒãƒ«ï¼‘,rtmp://45.92.126.114/channel/613103a6c6f62a25d2da2199
 Music Japan TV,rtmp://45.92.126.114/channel/613223d7c6f62a25d2da21d6
-»ñ°Ä½Ãµø¸ê°T,rtmp://45.88.148.178/channel/60c2f46e961593122ebaf8cb
-????????¢±,rtmp://45.92.126.114/channel/61310410c6f62a25d2da219b
+é³³å‡°è¡›è¦–è³‡è¨Š,rtmp://45.88.148.178/channel/60c2f46e961593122ebaf8cb
+ã‚¹ã‚¿ãƒ¼ãƒãƒ£ãƒ³ãƒãƒ«ï¼’,rtmp://45.92.126.114/channel/61310410c6f62a25d2da219b
 MTV HD,rtmp://45.92.126.114/channel/61322427c6f62a25d2da21d8
-¬PªÅ½Ãµø,rtmp://45.92.126.226/channel/60ecda6b020b42a2f634be03
-????????¢²,rtmp://45.92.126.114/channel/6131044fc6f62a25d2da219d
+æ˜Ÿç©ºè¡›è¦–,rtmp://45.92.126.226/channel/60ecda6b020b42a2f634be03
+ã‚¹ã‚¿ãƒ¼ãƒãƒ£ãƒ³ãƒãƒ«ï¼“,rtmp://45.92.126.114/channel/6131044fc6f62a25d2da219d
 MUSIC ON! TV,rtmp://45.92.126.114/channel/6132246bc6f62a25d2da21da
-??????????? HD,rtmp://45.92.126.114/channel/613224aec6f62a25d2da21dc
-AXN ¢Ö¢Ò ®ü¥~???,rtmp://45.92.126.114/channel/61322915c6f62a25d2da21de
-³¨?????,rtmp://45.92.126.114/channel/61322958c6f62a25d2da21e0
-AXN????? HD,rtmp://45.88.148.114/channel/61322a00c6f62a25d2da21e4
-????? ???????? ?????,rtmp://45.88.148.114/channel/61322a43c6f62a25d2da21e6
+ãƒ’ã‚¹ãƒˆãƒªãƒ¼ãƒãƒ£ãƒ³ãƒãƒ«â„¢ HD,rtmp://45.92.126.114/channel/613224aec6f62a25d2da21dc
+AXN ï¼¨ï¼¤ æµ·å¤–ãƒ‰ãƒ©ãƒ,rtmp://45.92.126.114/channel/61322915c6f62a25d2da21de
+é‡£ã‚Šãƒ“ã‚¸ãƒ§ãƒ³,rtmp://45.92.126.114/channel/61322958c6f62a25d2da21e0
+AXNãƒŸã‚¹ãƒ†ãƒªãƒ¼ HD,rtmp://45.88.148.114/channel/61322a00c6f62a25d2da21e4
+ãƒŠã‚·ãƒ§ãƒŠãƒ« ã‚¸ã‚ªã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯ ãƒãƒ£ãƒ³ãƒãƒ«,rtmp://45.88.148.114/channel/61322a43c6f62a25d2da21e6
 KBS World,rtmp://45.88.148.114/channel/61322a7dc6f62a25d2da21e8
 FOX HD,rtmp://45.88.148.114/channel/61322ac7c6f62a25d2da21ea
-ªF¬M?????,rtmp://45.88.148.114/channel/61322b7dc6f62a25d2da21ec
-¤k©Ê??????LaLa TV(HD),rtmp://45.88.148.114/channel/61322cc4c6f62a25d2da21ee
-???????¢Ö¢Ò,rtmp://45.88.148.114/channel/61322cfcc6f62a25d2da21f0
-¨p¤H¼v°|,rtmp://45.88.148.178/channel/610006dcf0618408855f36bd
-¤é??G+ HD,rtmp://45.88.148.114/channel/61322d3dc6f62a25d2da21f2
-½Ã¬P¼@³õ¢Ö¢Ò,rtmp://45.88.148.114/channel/61322d9cc6f62a25d2da21f4
-¢Õ¢ÏO¢à¢Ï¡@¢Ö¢Ò,rtmp://45.88.148.114/channel/61322dd5c6f62a25d2da21f6
-?????¢Ö¢Ò,rtmp://45.88.148.114/channel/61322e18c6f62a25d2da21f8
-????A sports¡Ï ¢Ö¢Ò,rtmp://45.88.148.114/channel/61322e4dc6f62a25d2da21fa
-½n¨Ó¹q¼v,rtmp://104.149.130.142/channel/60b4e50239e1b02e8b910c8c
-????????????,rtmp://45.88.148.114/channel/61322e7fc6f62a25d2da21fc
-®È?????¢Ö¢Ò,rtmp://45.88.148.114/channel/61322f91c6f62a25d2da21fe
-¢å¢İ¢å¢İ¢å???,rtmp://45.88.148.114/channel/61322fcfc6f62a25d2da2200
-¢å¢İ¢å¢İ¢å???,rtmp://45.88.148.114/channel/61323005c6f62a25d2da2202
-³ü¹q¼v¥x,rtmp://104.149.141.122/channel/60b4e50239e1b02e8b910cf6
-¢å¢İ¢å¢İ¢å????,rtmp://45.88.148.114/channel/61323038c6f62a25d2da2204
-¬P½Ã¹q¼v,rtmp://45.88.148.114/channel/60b4e50239e1b02e8b910d36
-??´Â?????¢±,rtmp://45.88.148.114/channel/61323075c6f62a25d2da2206
-ÀsµØ¹q¼v,rtmp://45.88.148.114/channel/60b4e50239e1b02e8b910d4c
-??´Â?????¢°,rtmp://45.88.148.114/channel/613230b1c6f62a25d2da2208
-¹t¤Ñ¹q¼v,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d58
-?????????,rtmp://45.88.148.114/channel/613230ebc6f62a25d2da220a
-ªF´Ë¹q¼v,rtmp://104.149.131.118/channel/60b4e50239e1b02e8b910d8a
-¢â¢Ğ¢á?????¢°,rtmp://45.88.148.114/channel/61323121c6f62a25d2da220c
-Às²»®É¥N¹q¼v,rtmp://45.88.148.122/channel/60c2474a961593122ebaf7b5
-»Èªe,rtmp://45.88.148.114/channel/613231dac6f62a25d2da220e
-?????¢Ü¢Ó¢æ¢â,rtmp://45.88.148.114/channel/6132323ec6f62a25d2da2210
-¤Ñ¬M?¼v,rtmp://45.88.148.178/channel/61002e1ff0618408855f3711
-?????¢İ¢Ü¢Ó ??????????,rtmp://45.88.148.114/channel/61323275c6f62a25d2da2212
-?????¢â¢å¢İ ???????,rtmp://45.88.148.114/channel/613232c2c6f62a25d2da2214
+æ±æ˜ ãƒãƒ£ãƒ³ãƒãƒ«,rtmp://45.88.148.114/channel/61322b7dc6f62a25d2da21ec
+å¥³æ€§ãƒãƒ£ãƒ³ãƒãƒ«â™ªLaLa TV(HD),rtmp://45.88.148.114/channel/61322cc4c6f62a25d2da21ee
+ãƒ ãƒ¼ãƒ“ãƒ¼ãƒ—ãƒ©ã‚¹ï¼¨ï¼¤,rtmp://45.88.148.114/channel/61322cfcc6f62a25d2da21f0
+ç§äººå½±é™¢,rtmp://45.88.148.178/channel/610006dcf0618408855f36bd
+æ—¥ãƒ†ãƒ¬G+ HD,rtmp://45.88.148.114/channel/61322d3dc6f62a25d2da21f2
+è¡›æ˜ŸåŠ‡å ´ï¼¨ï¼¤,rtmp://45.88.148.114/channel/61322d9cc6f62a25d2da21f4
+ï¼§ï¼¡Oï¼²ï¼¡ã€€ï¼¨ï¼¤,rtmp://45.88.148.114/channel/61322dd5c6f62a25d2da21f6
+ã‚¶ãƒ»ã‚·ãƒãƒï¼¨ï¼¤,rtmp://45.88.148.114/channel/61322e18c6f62a25d2da21f8
+ã‚¹ã‚«ã‚¤ãƒ»A sportsï¼‹ ï¼¨ï¼¤,rtmp://45.88.148.114/channel/61322e4dc6f62a25d2da21fa
+ç·¯ä¾†é›»å½±,rtmp://104.149.130.142/channel/60b4e50239e1b02e8b910c8c
+ãƒ‡ã‚£ã‚¹ã‚«ãƒãƒªãƒ¼ãƒãƒ£ãƒ³ãƒãƒ«,rtmp://45.88.148.114/channel/61322e7fc6f62a25d2da21fc
+æ—…ãƒãƒ£ãƒ³ãƒãƒ«ï¼¨ï¼¤,rtmp://45.88.148.114/channel/61322f91c6f62a25d2da21fe
+ï¼·ï¼¯ï¼·ï¼¯ï¼·ã‚·ãƒãƒ,rtmp://45.88.148.114/channel/61322fcfc6f62a25d2da2200
+ï¼·ï¼¯ï¼·ï¼¯ï¼·ãƒ©ã‚¤ãƒ–,rtmp://45.88.148.114/channel/61323005c6f62a25d2da2202
+å£¹é›»å½±å°,rtmp://104.149.141.122/channel/60b4e50239e1b02e8b910cf6
+ï¼·ï¼¯ï¼·ï¼¯ï¼·ãƒ—ãƒ©ã‚¤ãƒ ,rtmp://45.88.148.114/channel/61323038c6f62a25d2da2204
+æ˜Ÿè¡›é›»å½±,rtmp://45.88.148.114/channel/60b4e50239e1b02e8b910d36
+ãƒ†ãƒ¬æœãƒãƒ£ãƒ³ãƒãƒ«ï¼’,rtmp://45.88.148.114/channel/61323075c6f62a25d2da2206
+é¾è¯é›»å½±,rtmp://45.88.148.114/channel/60b4e50239e1b02e8b910d4c
+ãƒ†ãƒ¬æœãƒãƒ£ãƒ³ãƒãƒ«ï¼‘,rtmp://45.88.148.114/channel/613230b1c6f62a25d2da2208
+é–å¤©é›»å½±,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d58
+ãƒŸãƒ¥ãƒ¼ã‚¸ãƒƒã‚¯ãƒ»ã‚¨ã‚¢,rtmp://45.88.148.114/channel/613230ebc6f62a25d2da220a
+æ±æ£®é›»å½±,rtmp://104.149.131.118/channel/60b4e50239e1b02e8b910d8a
+ï¼´ï¼¢ï¼³ãƒãƒ£ãƒ³ãƒãƒ«ï¼‘,rtmp://45.88.148.114/channel/61323121c6f62a25d2da220c
+é¾ç¥¥æ™‚ä»£é›»å½±,rtmp://45.88.148.122/channel/60c2474a961593122ebaf7b5
+éŠ€æ²³,rtmp://45.88.148.114/channel/613231dac6f62a25d2da220e
+ãƒ•ã‚¸ãƒ†ãƒ¬ãƒ“ï¼®ï¼¥ï¼¸ï¼´,rtmp://45.88.148.114/channel/6132323ec6f62a25d2da2210
+å¤©æ˜ ç”µå½±,rtmp://45.88.148.178/channel/61002e1ff0618408855f3711
+ãƒ•ã‚¸ãƒ†ãƒ¬ãƒ“ï¼¯ï¼®ï¼¥ ã‚¹ãƒãƒ¼ãƒ„ãƒ»ãƒãƒ©ã‚¨ãƒ†ã‚£,rtmp://45.88.148.114/channel/61323275c6f62a25d2da2212
+ãƒ•ã‚¸ãƒ†ãƒ¬ãƒ“ï¼´ï¼·ï¼¯ ãƒ‰ãƒ©ãƒãƒ»ã‚¢ãƒ‹ãƒ¡,rtmp://45.88.148.114/channel/613232c2c6f62a25d2da2214
 J SPORTS 1,rtmp://45.88.148.114/channel/613232fec6f62a25d2da2216
 J SPORTS 2,rtmp://45.88.148.114/channel/61323335c6f62a25d2da2218
 J SPORTS 3,rtmp://45.88.148.114/channel/61323377c6f62a25d2da221a
-FOX MOVIESÀu½è¹q¼v,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910ca8
+FOX MOVIESå„ªè³ªé›»å½±,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910ca8
 J SPORTS 4,rtmp://45.88.148.114/channel/613233a8c6f62a25d2da221c
 CINEMAX HD,rtmp://104.149.141.122/channel/60b4e50239e1b02e8b910cac
-HBO®a®x,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910caa
+HBOå®¶åº­,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910caa
 HBO HIT,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cce
 BBC Earth,rtmp://45.88.148.114/channel/60b4e50239e1b02e8b910d3e
 HBO signature,rtmp://104.149.130.142/channel/60b4e50239e1b02e8b910ccc
-¼v°g¼Æ¦ì¹q¼v,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910ce8
-¼v°g¼Æ¦ì¬ö¹ê¥x,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910cea
+å½±è¿·æ•¸ä½é›»å½±,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910ce8
+å½±è¿·æ•¸ä½ç´€å¯¦å°,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910cea
 Boomerang,rtmp://104.149.138.98/channel/6161652a295d84395bad66f5
 CinemaWorld,rtmp://61.216.43.210/channel/60b4e50239e1b02e8b910cf0
 BLUE ANT Extreme,rtmp://45.88.148.114/channel/60b4e50239e1b02e8b910cf2
 tvN,rtmp://104.149.131.118/channel/60b4e50239e1b02e8b910d1c
 Star Movies,rtmp://45.88.148.114/channel/60b4e50239e1b02e8b910d20
-Áú°ê®T¼ÖKMTV,rtmp://45.88.148.114/channel/60c2d183961593122ebaf8ae
-CatchPlay¹q¼v¥x,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d2a
-ªü¨½­¦,rtmp://45.88.148.122/channel/61002c00f0618408855f370a
+éŸ“åœ‹å¨›æ¨‚KMTV,rtmp://45.88.148.114/channel/60c2d183961593122ebaf8ae
+CatchPlayé›»å½±å°,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d2a
+é˜¿é‡Œéƒ,rtmp://45.88.148.122/channel/61002c00f0618408855f370a
 Outdoor Channel,rtmp://104.149.138.98/channel/616166cd295d84395bad6953
 TV5 Monde,rtmp://104.149.138.98/channel/61616807295d84395bad6b8f
-ÀsµØ¬v¤ù,rtmp://104.149.131.118/channel/60b4e50239e1b02e8b910d40
+é¾è¯æ´‹ç‰‡,rtmp://104.149.131.118/channel/60b4e50239e1b02e8b910d40
 France 24,rtmp://104.149.138.98/channel/61617574295d84395bad896d
-µØ¯Ç¹q¼v,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910d68
+è¯ç´é›»å½±,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910d68
 Da Vinci Learning,rtmp://104.149.138.98/channel/616175a0295d84395bad89cd
 Asian Food Network,rtmp://104.149.138.98/channel/616175d9295d84395bad8a56
-ºÖ´µ®a®x,rtmp://45.88.148.122/channel/60c2f660961593122ebaf8d8
+ç¦æ–¯å®¶åº­,rtmp://45.88.148.122/channel/60c2f660961593122ebaf8d8
 KIX,rtmp://104.149.138.98/channel/61617616295d84395bad8ae1
-ºÖ´µ°Ê§@,rtmp://45.92.126.226/channel/60c2f6ca961593122ebaf8dc
+ç¦æ–¯å‹•ä½œ,rtmp://45.92.126.226/channel/60c2f6ca961593122ebaf8dc
 Blue Ant Extreme,rtmp://104.149.138.98/channel/6161763a295d84395bad8b4d
 Blue Ant Entertainment,rtmp://104.149.138.98/channel/61617680295d84395bad8c01
 HBO,rtmp://45.88.148.122/channel/60c2f77a961593122ebaf8e0
-HTVC Thu?n Vi?t,rtmp://104.149.138.98/channel/616176b1295d84395bad8c96
-HTVC Thu?n Vi?t,rtmp://104.149.138.98/channel/616176e4295d84395bad8d16
+HTVC Thuáº§n Viá»‡t,rtmp://104.149.138.98/channel/616176b1295d84395bad8c96
+HTVC Thuáº§n Viá»‡t,rtmp://104.149.138.98/channel/616176e4295d84395bad8d16
 HTVC Plus,rtmp://104.149.138.98/channel/61617733295d84395bad8dd8
-HTVC Ph? N?,rtmp://104.149.184.98/channel/616179cc295d84395bad943f
-HTVC Gia ?inh,rtmp://104.149.184.98/channel/61617a5d295d84395bad9589
-HTVC Du L?ch,rtmp://104.149.184.98/channel/61617a8c295d84395bad95ea
+HTVC Phá»¥ Ná»¯,rtmp://104.149.184.98/channel/616179cc295d84395bad943f
+HTVC Gia ÄÃ¬nh,rtmp://104.149.184.98/channel/61617a5d295d84395bad9589
+HTVC Du Lá»‹ch,rtmp://104.149.184.98/channel/61617a8c295d84395bad95ea
 HTVC Phim,rtmp://104.149.184.98/channel/61617ab5295d84395bad9644
 HTV1,rtmp://104.149.184.98/channel/61617b24295d84395bad973d
 HTV2,rtmp://104.149.184.98/channel/6161882a295d84395badbf34
 HTV3,rtmp://104.149.184.98/channel/61618857295d84395badbfca
 HTV4,rtmp://104.149.184.98/channel/6161888b295d84395badc064
 VTV1,rtmp://104.149.184.98/channel/616188bd295d84395badc116
-¹t¤Ñ¬Mµe,rtmp://45.92.126.226/channel/60c34395961593122ebaf994
-±´¯Á°Ê¤OÀW¹D,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d74
+é–å¤©æ˜ ç•«,rtmp://45.92.126.226/channel/60c34395961593122ebaf994
+æ¢ç´¢å‹•åŠ›é »é“,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d74
 VTV4,rtmp://104.149.184.98/channel/61618947295d84395badc2d3
-¹t¤Ñ°ê»Ú,rtmp://45.83.118.242/channel/60c34331961593122ebaf990
+é–å¤©åœ‹éš›,rtmp://45.83.118.242/channel/60c34331961593122ebaf990
 VTV5,rtmp://104.149.184.98/channel/61618978295d84395badc37b
-©¯ºÖªÅ¶¡©~®a¥x,rtmp://45.83.118.242/channel/611c88f93e4da143c01598fc
+å¹¸ç¦ç©ºé–“å±…å®¶å°,rtmp://45.83.118.242/channel/611c88f93e4da143c01598fc
 MezzoLive,rtmp://104.149.141.122/channel/60b4e50239e1b02e8b910cdc
 VTV7,rtmp://104.149.184.98/channel/61618c6d295d84395badce4b
-¥j¨å­µ¼Ö,rtmp://104.149.141.122/channel/60b4e50239e1b02e8b910ce4
+å¤å…¸éŸ³æ¨‚,rtmp://104.149.141.122/channel/60b4e50239e1b02e8b910ce4
 VTV8,rtmp://104.149.186.246/channel/61618c9f295d84395badcf0f
 CCTV-1,rtmp://104.149.130.142/channel/60ecd4db020b42a2f634bdb7
 VTV9,rtmp://104.149.186.246/channel/61618d03295d84395badd06c
-·Rº¸¹F¼v¼@,rtmp://45.88.148.114/channel/60b4e50239e1b02e8b910cbe
+æ„›çˆ¾é”å½±åŠ‡,rtmp://45.88.148.114/channel/60b4e50239e1b02e8b910cbe
 CCTV-3,rtmp://104.149.130.142/channel/60ecd53b020b42a2f634bdbb
-H?u Giang,rtmp://104.149.186.246/channel/61618f59295d84395badda01
+Háº­u Giang,rtmp://104.149.186.246/channel/61618f59295d84395badda01
 CCTV-4,rtmp://104.149.130.142/channel/60ecd562020b42a2f634bdbd
-??ng Thap,rtmp://104.149.186.246/channel/61618f89295d84395baddac7
+Äá»“ng ThÃ¡p,rtmp://104.149.186.246/channel/61618f89295d84395baddac7
 CCTV-5,rtmp://104.149.130.142/channel/60ecd580020b42a2f634bdbf
 ANTV HD,rtmp://104.149.186.246/channel/61618fbe295d84395baddbb5
 CCTV-6,rtmp://104.149.130.142/channel/60ecd5a0020b42a2f634bdc1
-V?nh Long 1,rtmp://104.149.186.246/channel/61618fef295d84395baddc85
+VÄ©nh Long 1,rtmp://104.149.186.246/channel/61618fef295d84395baddc85
 CCTV-7,rtmp://104.149.130.142/channel/60ecd5ce020b42a2f634bdc3
-V?nh Long 2,rtmp://104.149.186.246/channel/6161901f295d84395baddd51
+VÄ©nh Long 2,rtmp://104.149.186.246/channel/6161901f295d84395baddd51
 CCTV-8,rtmp://104.149.130.142/channel/60ecd618020b42a2f634bdc5
-V?nh Long 3,rtmp://104.149.186.246/channel/6161904d295d84395badde22
+VÄ©nh Long 3,rtmp://104.149.186.246/channel/6161904d295d84395badde22
 CCTV-9,rtmp://104.149.130.142/channel/60ecd638020b42a2f634bdc7
-B?c Lieu,rtmp://104.149.186.246/channel/6161907f295d84395baddedc
+Báº¡c LiÃªu,rtmp://104.149.186.246/channel/6161907f295d84395baddedc
 CCTV-10,rtmp://104.149.130.142/channel/60ecd662020b42a2f634bdc9
-B?c Giang,rtmp://104.149.186.246/channel/616190ac295d84395baddfb5
+Báº¯c Giang,rtmp://104.149.186.246/channel/616190ac295d84395baddfb5
 CCTV-11,rtmp://104.149.130.142/channel/60ecd67e020b42a2f634bdcb
-Ba R?a-V?ng Tau,rtmp://104.149.186.246/channel/616190d4295d84395bade092
+BÃ  Rá»‹a-VÅ©ng TÃ u,rtmp://104.149.186.246/channel/616190d4295d84395bade092
 CCTV-12,rtmp://104.149.130.142/channel/60ecd761020b42a2f634bdcd
 An Giang,rtmp://104.149.186.246/channel/616190fc295d84395bade13a
 CCTV-13,rtmp://104.149.130.142/channel/60ecd786020b42a2f634bdcf
 YouTV,rtmp://104.149.186.246/channel/61619123295d84395bade1d8
 CCTV-14,rtmp://104.149.130.142/channel/60ecd7a2020b42a2f634bdd1
-Truy?n Hinh Nhan Dan,rtmp://104.149.186.246/channel/61619772295d84395badfed4
+Truyá»n HÃ¬nh NhÃ¢n DÃ¢n,rtmp://104.149.186.246/channel/61619772295d84395badfed4
 CCTV-15,rtmp://104.149.130.142/channel/60ecd7bf020b42a2f634bdd3
-Thong T?n Xa Vi?t Nam,rtmp://104.149.187.154/channel/616197a3295d84395badffa9
-´ò«n½Ãµø,rtmp://104.149.130.142/channel/60ecd7f5020b42a2f634bdd5
-Qu?c Phong VN,rtmp://104.149.187.154/channel/616197d5295d84395bae0046
-®ı¦¿½Ãµø,rtmp://104.149.130.142/channel/60ecd855020b42a2f634bded
-Qu?c H?i,rtmp://104.149.187.154/channel/61619800295d84395bae00c7
-ªF¤è½Ãµø,rtmp://104.149.130.142/channel/60ecd881020b42a2f634bdef
+ThÃ´ng Táº¥n XÃ£ Viá»‡t Nam,rtmp://104.149.187.154/channel/616197a3295d84395badffa9
+æ¹–å—è¡›è¦–,rtmp://104.149.130.142/channel/60ecd7f5020b42a2f634bdd5
+Quá»‘c PhÃ²ng VN,rtmp://104.149.187.154/channel/616197d5295d84395bae0046
+æµ™æ±Ÿè¡›è¦–,rtmp://104.149.130.142/channel/60ecd855020b42a2f634bded
+Quá»‘c Há»™i,rtmp://104.149.187.154/channel/61619800295d84395bae00c7
+æ±æ–¹è¡›è¦–,rtmp://104.149.130.142/channel/60ecd881020b42a2f634bdef
 VTV Hyundai Homeshopping,rtmp://104.149.187.154/channel/6161982a295d84395bae0156
-¦¿Ä¬½Ãµø,rtmp://104.149.130.142/channel/60ecd8ac020b42a2f634bdf1
+æ±Ÿè˜‡è¡›è¦–,rtmp://104.149.130.142/channel/60ecd8ac020b42a2f634bdf1
 VOVTV,rtmp://104.149.187.154/channel/6161985b295d84395bae0213
-¿D¨È½Ãµø,rtmp://104.149.130.142/channel/60ecd8dc020b42a2f634bdf3
+æ¾³äºè¡›è¦–,rtmp://104.149.130.142/channel/60ecd8dc020b42a2f634bdf3
 FBNC,rtmp://104.149.187.154/channel/61619889295d84395bae0290
-ªe«n½Ãµø,rtmp://104.149.130.142/channel/60ecd916020b42a2f634bdf5
+æ²³å—è¡›è¦–,rtmp://104.149.130.142/channel/60ecd916020b42a2f634bdf5
 NCM,rtmp://104.149.187.154/channel/616198b6295d84395bae0300
-¥_¨Ê½Ãµø,rtmp://104.149.130.142/channel/60ecd962020b42a2f634bdf7
+åŒ—äº¬è¡›è¦–,rtmp://104.149.130.142/channel/60ecd962020b42a2f634bdf7
 BTV6,rtmp://104.149.187.154/channel/616198de295d84395bae036a
-´ò¥_½Ãµø,rtmp://104.149.130.142/channel/60ecd98e020b42a2f634bdf9
+æ¹–åŒ—è¡›è¦–,rtmp://104.149.130.142/channel/60ecd98e020b42a2f634bdf9
 BTV11,rtmp://104.149.187.154/channel/6161990e295d84395bae03e2
-¼sªF½Ãµø,rtmp://104.149.130.142/channel/60ecd9b6020b42a2f634bdfb
+å»£æ±è¡›è¦–,rtmp://104.149.130.142/channel/60ecd9b6020b42a2f634bdfb
 iMovie,rtmp://104.149.187.154/channel/61619939295d84395bae0458
-²`¦`½Ãµø,rtmp://104.149.130.142/channel/60ecd9f1020b42a2f634bdfd
+æ·±åœ³è¡›è¦–,rtmp://104.149.130.142/channel/60ecd9f1020b42a2f634bdfd
 VTC2,rtmp://104.149.187.154/channel/61619961295d84395bae04bc
-«n¤è½Ãµø,rtmp://104.149.130.142/channel/60ecda1b020b42a2f634bdff
+å—æ–¹è¡›è¦–,rtmp://104.149.130.142/channel/60ecda1b020b42a2f634bdff
 VTC4,rtmp://104.149.187.154/channel/6161998c295d84395bae0525
-¬PªÅ½Ãµø,rtmp://104.149.130.142/channel/60ecda40020b42a2f634be01
+æ˜Ÿç©ºè¡›è¦–,rtmp://104.149.130.142/channel/60ecda40020b42a2f634be01
 VTC5,rtmp://104.149.187.154/channel/616199b8295d84395bae05a0
 VTC6,rtmp://104.149.187.154/channel/616199e4295d84395bae0610
-ªF«n½Ãµø,rtmp://104.149.130.142/channel/60ecdab7020b42a2f634be07
+æ±å—è¡›è¦–,rtmp://104.149.130.142/channel/60ecdab7020b42a2f634be07
 VTC7,rtmp://104.149.187.154/channel/61619b4a295d84395bae0a55
-¼sªFÅé¨|,rtmp://104.149.130.142/channel/60ecdae3020b42a2f634be09
+å»£æ±é«”è‚²,rtmp://104.149.130.142/channel/60ecdae3020b42a2f634be09
 VTC8,rtmp://104.149.188.82/channel/61619b79295d84395bae0aee
-¼sªF¯]¦¿,rtmp://104.149.130.142/channel/60ecdb04020b42a2f634be0b
-Lam ??ng,rtmp://104.149.188.82/channel/61619e82295d84395bae12df
-¤sªF½Ãµø,rtmp://104.149.130.142/channel/6100349af0618408855f372f
-S?n La,rtmp://104.149.188.82/channel/61619eb2295d84395bae1347
-½Ãµø­µ¼Ö¥x,rtmp://104.149.130.142/channel/61003572f0618408855f3732
-Thai Binh,rtmp://104.149.188.82/channel/61619ee5295d84395bae13c1
+å»£æ±ç æ±Ÿ,rtmp://104.149.130.142/channel/60ecdb04020b42a2f634be0b
+LÃ¢m Äá»“ng,rtmp://104.149.188.82/channel/61619e82295d84395bae12df
+å±±æ±è¡›è¦–,rtmp://104.149.130.142/channel/6100349af0618408855f372f
+SÆ¡n La,rtmp://104.149.188.82/channel/61619eb2295d84395bae1347
+è¡›è¦–éŸ³æ¨‚å°,rtmp://104.149.130.142/channel/61003572f0618408855f3732
+ThÃ¡i BÃ¬nh,rtmp://104.149.188.82/channel/61619ee5295d84395bae13c1
 J5,rtmp://104.149.153.106/channel/60b4e50239e1b02e8b910c64
-Thanh Hoa,rtmp://104.149.188.82/channel/61619f13295d84395bae1440
+Thanh HÃ³a,rtmp://104.149.188.82/channel/61619f13295d84395bae1440
 J2,rtmp://104.149.153.106/channel/60b4e50239e1b02e8b910c66
-Th?a Thien Hu?,rtmp://104.149.188.82/channel/61619f43295d84395bae14b7
+Thá»«a ThiÃªn Huáº¿,rtmp://104.149.188.82/channel/61619f43295d84395bae14b7
 Viu TV,rtmp://104.149.153.106/channel/60b4e50239e1b02e8b910c68
-V?nh Phuc,rtmp://104.149.188.82/channel/6161a15d295d84395bae1bf2
-¸o®×,rtmp://45.88.148.114/channel/60b4e50239e1b02e8b910d34
+VÄ©nh PhÃºc,rtmp://104.149.188.82/channel/6161a15d295d84395bae1bf2
+ç½ªæ¡ˆ,rtmp://45.88.148.114/channel/60b4e50239e1b02e8b910d34
 VIUSIX,rtmp://104.149.153.106/channel/60b4e50239e1b02e8b910c5e
-Yen Bai,rtmp://104.149.188.82/channel/6161a18a295d84395bae1c91
-©ú¯],rtmp://104.149.153.106/channel/60b4e50239e1b02e8b910c6a
-V?nh Long 4,rtmp://104.149.188.82/channel/6161a1b2295d84395bae1d1b
-¤¬°Ê·s»D,rtmp://104.149.153.106/channel/60b4e50239e1b02e8b910c6c
+YÃªn BÃ¡i,rtmp://104.149.188.82/channel/6161a18a295d84395bae1c91
+æ˜ç ,rtmp://104.149.153.106/channel/60b4e50239e1b02e8b910c6a
+VÄ©nh Long 4,rtmp://104.149.188.82/channel/6161a1b2295d84395bae1d1b
+äº’å‹•æ–°è,rtmp://104.149.153.106/channel/60b4e50239e1b02e8b910c6c
 Travel & Living,rtmp://104.149.188.82/channel/6161a1d9295d84395bae1d79
-»B»A,rtmp://104.149.153.106/channel/60b4e50239e1b02e8b910c60
+ç¿¡ç¿ ,rtmp://104.149.153.106/channel/60b4e50239e1b02e8b910c60
 Animal Planet,rtmp://104.149.188.82/channel/6161a1fe295d84395bae1de1
-¤½µø3,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c3e
+å…¬è¦–3,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c3e
 Discovery Asia,rtmp://104.149.188.82/channel/6161a22b295d84395bae1e5b
-TVBSÅw¼Ö¥x,rtmp://45.83.118.242/channel/611a81c23e4da143c0159876
+TVBSæ­¡æ¨‚å°,rtmp://45.83.118.242/channel/611a81c23e4da143c0159876
 Discovery,rtmp://104.149.188.82/channel/6161a261295d84395bae1ee0
-«H¤j,rtmp://104.149.141.122/channel/611a823b3e4da143c0159878
+ä¿¡å¤§,rtmp://104.149.141.122/channel/611a823b3e4da143c0159878
 ABC Australia,rtmp://104.149.188.82/channel/6161a2ce295d84395bae1ffb
-¥xµøºî¦X,rtmp://45.88.148.114/channel/60b4e50239e1b02e8b910c4a
+å°è¦–ç¶œåˆ,rtmp://45.88.148.114/channel/60b4e50239e1b02e8b910c4a
 Bloomberg,rtmp://104.149.188.82/channel/6161a330295d84395bae212f
 Thrill,rtmp://45.92.126.226/channel/60c30d59961593122ebaf8e6
-¥xµø°]¸g,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910c48
+å°è¦–è²¡ç¶“,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910c48
 BBC Lifestyle,rtmp://104.149.191.182/channel/6161a5b8295d84395bae2802
-µØµøÅé¨|¤å¤Æ±Ğ¨|,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c4e
+è¯è¦–é«”è‚²æ–‡åŒ–æ•™è‚²,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c4e
 BBC News,rtmp://104.149.191.182/channel/6161a66f295d84395bae2a3b
-¤½µø2,rtmp://45.92.126.226/channel/60c31796961593122ebaf908
+å…¬è¦–2,rtmp://45.92.126.226/channel/60c31796961593122ebaf908
 BBC Earth,rtmp://104.149.191.182/channel/6161a69d295d84395bae2ab7
-µØµø¸ê°T,rtmp://104.149.141.122/channel/60b4e50239e1b02e8b910c50
+è¯è¦–è³‡è¨Š,rtmp://104.149.141.122/channel/60b4e50239e1b02e8b910c50
 CNN,rtmp://104.149.191.182/channel/6161a6d4295d84395bae2b28
-¤¤µø¸g¨å,rtmp://45.88.148.178/channel/60c31708961593122ebaf902
+ä¸­è¦–ç¶“å…¸,rtmp://45.88.148.178/channel/60c31708961593122ebaf902
 Baby First,rtmp://104.149.191.182/channel/6161a774295d84395bae2cb2
-¥ş¤j¹qµø¥x,rtmp://104.149.130.142/channel/611a82af3e4da143c015987a
-B?c Ninh,rtmp://104.149.191.182/channel/6161a7a7295d84395bae2d41
-µØÃÀ¼v¼@,rtmp://45.83.118.242/channel/60b4e50239e1b02e8b910cfc
+å…¨å¤§é›»è¦–å°,rtmp://104.149.130.142/channel/611a82af3e4da143c015987a
+Báº¯c Ninh,rtmp://104.149.191.182/channel/6161a7a7295d84395bae2d41
+è¯è—å½±åŠ‡,rtmp://45.83.118.242/channel/60b4e50239e1b02e8b910cfc
 SBTN,rtmp://104.149.191.182/channel/6161a7d6295d84395bae2dce
-¤¤µøµ×ªö,rtmp://45.88.148.122/channel/60c3173a961593122ebaf904
+ä¸­è¦–èé‡‡,rtmp://45.88.148.122/channel/60c3173a961593122ebaf904
 FILM24H,rtmp://104.149.191.182/channel/6161a80d295d84395bae2e51
-«a­x¹qµø¥x,rtmp://45.92.126.226/channel/611a83133e4da143c015987c
+å† è»é›»è¦–å°,rtmp://45.92.126.226/channel/611a83133e4da143c015987c
 HONVIE TV,rtmp://104.149.191.182/channel/6161a840295d84395bae2eca
-ÀsµØÀ¸¼@,rtmp://104.149.131.118/channel/60b4e50239e1b02e8b910d18
+é¾è¯æˆ²åŠ‡,rtmp://104.149.131.118/channel/60b4e50239e1b02e8b910d18
 S Channel,rtmp://104.149.191.182/channel/6161a873295d84395bae2f57
 Tviet Network,rtmp://104.149.191.182/channel/6161a8a6295d84395bae2fea
-¥Áµø²Ä¤@¥x,rtmp://104.149.141.122/channel/60c317e8961593122ebaf90c
+æ°‘è¦–ç¬¬ä¸€å°,rtmp://104.149.141.122/channel/60c317e8961593122ebaf90c
 VGN TV,rtmp://104.149.191.182/channel/6161a901295d84395bae30e4
-¥Áµø¥xÆW¥x,rtmp://45.92.126.114/channel/60c31843961593122ebaf910
-°ê·|ÀW¹D1,rtmp://45.92.126.226/channel/60c3452b961593122ebaf9a4
+æ°‘è¦–å°ç£å°,rtmp://45.92.126.114/channel/60c31843961593122ebaf910
+åœ‹æœƒé »é“1,rtmp://45.92.126.226/channel/60c3452b961593122ebaf9a4
 Vien Thao TV,rtmp://104.149.191.182/channel/6161a92e295d84395bae3178
-°ê·|ÀW¹D2,rtmp://45.92.126.226/channel/60c34558961593122ebaf9a6
+åœ‹æœƒé »é“2,rtmp://45.92.126.226/channel/60c34558961593122ebaf9a6
 Vietface TV,rtmp://104.149.191.182/channel/6161a95c295d84395bae31fc
 VIE TV,rtmp://104.149.191.182/channel/6161a98b295d84395bae328b
-¥xµø·s»D,rtmp://45.88.148.178/channel/61003bbcf0618408855f374c
-¥Í©R¹qµø»O,rtmp://45.88.148.114/channel/60b4e50239e1b02e8b910c54
-µØÂÃ½Ã¬P¹qµø»O,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910c56
-¤j·R2,rtmp://45.88.148.122/channel/60c3441b961593122ebaf99a
+å°è¦–æ–°è,rtmp://45.88.148.178/channel/61003bbcf0618408855f374c
+ç”Ÿå‘½é›»è¦–è‡º,rtmp://45.88.148.114/channel/60b4e50239e1b02e8b910c54
+è¯è—è¡›æ˜Ÿé›»è¦–è‡º,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910c56
+å¤§æ„›2,rtmp://45.88.148.122/channel/60c3441b961593122ebaf99a
 Trans7,rtmp://104.149.138.98/channel/6162961c295d84395baf862c
 RTV,rtmp://104.149.138.98/channel/6162963b295d84395baf865d
 EWTN,rtmp://104.149.138.98/channel/61629661295d84395baf8696
@@ -472,32 +471,32 @@ ZEE TV,rtmp://104.149.153.106/channel/6162d841295d84395bb0054e
 Kix,rtmp://45.88.148.178/channel/60c30db3961593122ebaf8e8
 HOT,rtmp://45.92.126.226/channel/60e5a836c47203d3a673d5ec
 HAPPY,rtmp://104.149.130.142/channel/60e5a862c47203d3a673d5ee
-±m­iE¥x,rtmp://45.92.126.226/channel/60e5a89ec47203d3a673d5f0
-ªQµø¤@,rtmp://45.92.126.226/channel/60e5a8cbc47203d3a673d5f2
-ªQµø¤G,rtmp://45.92.126.226/channel/60e5a8f2c47203d3a673d5f4
-ªQµø¤T,rtmp://45.92.126.226/channel/60e5a926c47203d3a673d5f7
-KÀW¹D,rtmp://45.92.126.226/channel/60e5a993c47203d3a673d5f9
-¼ï¦·©Ô§¹¬ü¥x,rtmp://45.92.126.226/channel/60e5a9bfc47203d3a673d5fb
+å½©è™¹Eå°,rtmp://45.92.126.226/channel/60e5a89ec47203d3a673d5f0
+æ¾è¦–ä¸€,rtmp://45.92.126.226/channel/60e5a8cbc47203d3a673d5f2
+æ¾è¦–äºŒ,rtmp://45.92.126.226/channel/60e5a8f2c47203d3a673d5f4
+æ¾è¦–ä¸‰,rtmp://45.92.126.226/channel/60e5a926c47203d3a673d5f7
+Ké »é“,rtmp://45.92.126.226/channel/60e5a993c47203d3a673d5f9
+æ½˜æœµæ‹‰å®Œç¾å°,rtmp://45.92.126.226/channel/60e5a9bfc47203d3a673d5fb
 Look HD,rtmp://45.92.126.226/channel/60ecdf7f020b42a2f634be25
-±m­i?¼v¥x,rtmp://45.92.126.226/channel/60ed7124020b42a2f634bfe5
-¼ï¦·©Ô¯»?¥x,rtmp://45.92.126.226/channel/60fa6c9c8dfe8209677fdb1a
-ÅåÆA¥x,rtmp://45.92.126.226/channel/60fa6d048dfe8209677fdb1c
-­»¿¼¥x,rtmp://45.92.126.226/channel/60fa6d608dfe8209677fdb1e
-JSTAR·¥­­¥x,rtmp://104.149.131.118/channel/60fa6d9b8dfe8209677fdb20
-­»¯ó¤Ñ¹D,rtmp://45.92.126.114/channel/6130ff36c6f62a25d2da217d
-©Ê·R±Ğ¥D,rtmp://45.92.126.114/channel/6131004fc6f62a25d2da2185
+å½©è™¹ç”µå½±å°,rtmp://45.92.126.226/channel/60ed7124020b42a2f634bfe5
+æ½˜æœµæ‹‰ç²‰çº¢å°,rtmp://45.92.126.226/channel/60fa6c9c8dfe8209677fdb1a
+é©šè‰·å°,rtmp://45.92.126.226/channel/60fa6d048dfe8209677fdb1c
+é¦™è•‰å°,rtmp://45.92.126.226/channel/60fa6d608dfe8209677fdb1e
+JSTARæ¥µé™å°,rtmp://104.149.131.118/channel/60fa6d9b8dfe8209677fdb20
+é¦™è‰å¤©é“,rtmp://45.92.126.114/channel/6130ff36c6f62a25d2da217d
+æ€§æ„›æ•™ä¸»,rtmp://45.92.126.114/channel/6131004fc6f62a25d2da2185
 VENUS,rtmp://45.92.126.114/channel/61310094c6f62a25d2da2187
-°µ·R¯S±Ğ¯Z,rtmp://45.92.126.114/channel/613100d2c6f62a25d2da2189
-¥¤¥¤«ö¼¯©±,rtmp://45.92.126.114/channel/6131010cc6f62a25d2da218b
-AV¤k¤ı,rtmp://45.92.126.114/channel/61310232c6f62a25d2da218d
-¤H©d¤£­Û,rtmp://45.92.126.114/channel/6131027ac6f62a25d2da218f
-¤ô¦h¦h,rtmp://45.92.126.114/channel/613102e2c6f62a25d2da2191
-ªñ¿Ë¬Û«Á,rtmp://45.92.126.114/channel/61319ab6c6f62a25d2da21b6
-±m­i³q¹D,rtmp://45.92.126.114/channel/61319b25c6f62a25d2da21b8
+åšæ„›ç‰¹æ•™ç­,rtmp://45.92.126.114/channel/613100d2c6f62a25d2da2189
+å¥¶å¥¶æŒ‰æ‘©åº—,rtmp://45.92.126.114/channel/6131010cc6f62a25d2da218b
+AVå¥³ç‹,rtmp://45.92.126.114/channel/61310232c6f62a25d2da218d
+äººå¦»ä¸å€«,rtmp://45.92.126.114/channel/6131027ac6f62a25d2da218f
+æ°´å¤šå¤š,rtmp://45.92.126.114/channel/613102e2c6f62a25d2da2191
+è¿‘è¦ªç›¸å§¦,rtmp://45.92.126.114/channel/61319ab6c6f62a25d2da21b6
+å½©è™¹é€šé“,rtmp://45.92.126.114/channel/61319b25c6f62a25d2da21b8
 PLAYBOY,rtmp://45.92.126.114/channel/61319b62c6f62a25d2da21ba
 KMP,rtmp://45.92.126.114/channel/61319ba0c6f62a25d2da21bd
-¤È©]?,rtmp://45.92.126.114/channel/61319c1cc6f62a25d2da21bf
-Äå®ç,rtmp://45.92.126.114/channel/61319cdfc6f62a25d2da21c3
-¤j¾Ç¤k´©¥æ©f,rtmp://45.92.126.114/channel/613221dbc6f62a25d2da21d0
-°µ·R¿é¤J,rtmp://45.88.148.114/channel/613229bec6f62a25d2da21e2
-<script type="text/javascript" src="https://s4.cnzz.com/z_stat.php?id=1278675585"></script>
+åˆå¤œè“,rtmp://45.92.126.114/channel/61319c1cc6f62a25d2da21bf
+æ«»æ¡ƒ,rtmp://45.92.126.114/channel/61319cdfc6f62a25d2da21c3
+å¤§å­¸å¥³æ´äº¤å¦¹,rtmp://45.92.126.114/channel/613221dbc6f62a25d2da21d0
+åšæ„›è¼¸å…¥,rtmp://45.88.148.114/channel/613229bec6f62a25d2da21e2
+ç«™é•¿ç»Ÿè®¡
