@@ -1,7 +1,7 @@
 # 短網址 :
 - https://git.io/J1wgG
 
-# Android ![Apple](./android.png)
+# Android ![Android](./Android.png)
 # DIYP影音 & 百川 txt
 - 接口設置->節目地址 :
 - https://git.io/JgTd2
