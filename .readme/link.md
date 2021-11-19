@@ -13,7 +13,7 @@
 
 # IPTV m3u :
 - m3u list :
-- ![https://git.io/JgTdm](https://git.io/JgTdm)
+- [https://git.io/JgTdm](https://git.io/JgTdm)
 
 - EPG :
 - http://epg.51zmt.top:8000/e.xml
