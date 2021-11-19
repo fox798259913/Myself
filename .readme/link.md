@@ -1,5 +1,6 @@
 # 短網址 :
-- https://git.io/J1wgG ![MyQR](./MyQR.png)
+- ![MyQR](./MyQR.png)
+- https://git.io/J1wgG
 
 # Android ![Android](./Android.png)
 # DIYP影音 & 百川 txt
