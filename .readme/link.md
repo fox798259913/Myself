@@ -1,6 +1,6 @@
 # 短網址 :
-- ![MyQR](./MyQR.png)
 - https://git.io/J1wgG
+- ![MyQR](./MyQR.png)
 
 # Android 
 - ![Android](./Android.png)
