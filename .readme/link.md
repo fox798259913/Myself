@@ -1,20 +1,21 @@
 # 短網址 :
 - https://git.io/J1wgG
-#
-- DIYP影音 & 百川 txt
+
+#- DIYP影音 & 百川 txt
 - 接口設置->節目地址 :
 - https://git.io/JgTd2
 
 - 接口設置->EPG接口 :
 - https://epg.112114.xyz
 
-- IPTV m3u :
+#- IPTV m3u :
 - https://git.io/JgTdm
 
 - EPG :
 - http://epg.51zmt.top:8000/e.xml
 - https://git.io/JgDz8
 
+# Apk Download
 - [DIYP影音 V5.2.0终极版](https://github.com/StanleyChen0924/Myself/blob/main/.github/ts/Apk/DIYP%E5%BD%B1%E9%9F%B3%20V5.2.0%E7%BB%88%E6%9E%81%E7%89%88.apk?raw=true)
 
 - [安卓youtube無廣告TV盒子板本](https://github.com/yuliskov/SmartTubeNext/releases/download/12.24/STubeNext_ststable_v12.24_r.apk)
