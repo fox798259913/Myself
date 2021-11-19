@@ -1,16 +1,16 @@
-https://git.io/J1wgG
+- https://git.io/J1wgG
 
-DIYP影音 & 百川 txt
-接口設置->節目地址
+- DIYP影音 & 百川 txt
+- 接口設置->節目地址
 https://git.io/JgTd2
 
-接口設置->EPG接口
+- 接口設置->EPG接口
 https://epg.112114.xyz
 
-IPTV m3u
+- IPTV m3u
 https://git.io/JgTdm
 
-EPG
+- EPG
 http://epg.51zmt.top:8000/e.xml
 https://git.io/JgDz8
 
