@@ -1,6 +1,7 @@
 # 短網址 :
 - https://git.io/J1wgG
 
+# Android system 
 # DIYP影音 & 百川 txt
 - 接口設置->節目地址 :
 - https://git.io/JgTd2
@@ -33,3 +34,6 @@
 
 - [電視版四季線上 4gTV](https://github.com/StanleyChen0924/Myself/blob/main/.github/ts/Apk/%E9%9B%BB%E8%A6%96%E7%89%88%E5%9B%9B%E5%AD%A3%E7%B7%9A%E4%B8%8A%204gTV_v1.2.7.apk?raw=true)
 
+# iPhone IOS 
+- [Cloud Stream IPTV Player](https://apps.apple.com/us/app/cloud-stream-iptv-player/id1138002135)
+- [How to use it](https://it-note.org/2017/08/25/cloudstream/)
