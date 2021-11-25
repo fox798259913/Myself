@@ -40,6 +40,8 @@
 
 - [APKPure](https://github.com/StanleyChen0924/Myself/blob/main/.github/ts/Apk/APKPure_v3.17.29_apkpure.com.apk?raw=true)
 
+- [AptoideTV-5.1.2](https://github.com/StanleyChen0924/Myself/blob/main/.github/ts/Apk/AptoideTV-5.1.2.apk?raw=true)
+
 # Apple 
 - ![Apple](./Apple.png)
 - [Cloud Stream IPTV Player](https://apps.apple.com/us/app/cloud-stream-iptv-player/id1138002135)
