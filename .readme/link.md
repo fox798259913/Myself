@@ -38,9 +38,11 @@
 
 - [小雞模擬器](https://github.com/StanleyChen0924/Myself/blob/main/.github/ts/Apk/xiaoji_1.7.25-A128.apk?raw=true)
 
-- [APKPure](https://github.com/StanleyChen0924/Myself/blob/main/.github/ts/Apk/APKPure_v3.17.29_apkpure.com.apk?raw=true)
-
 - [AptoideTV-5.1.2](https://github.com/StanleyChen0924/Myself/blob/main/.github/ts/Apk/AptoideTV-5.1.2.apk?raw=true)
+
+- [跨屏輸入小盒精靈](https://github.com/StanleyChen0924/Myself/blob/main/.github/ts/Apk/%E8%B7%A8%E5%B1%8F%E8%BC%B8%E5%85%A5%E5%B0%8F%E7%9B%92%E7%B2%BE%E9%9D%88.apk?raw=true)
+
+- [沙發管家V5.0_v5.0.5](https://github.com/StanleyChen0924/Myself/blob/main/.github/ts/Apk/%E6%B2%99%E7%99%BC%E7%AE%A1%E5%AE%B6V5.0_v5.0.5_webwww.apk?raw=true)
 
 # Apple 
 - ![Apple](./Apple.png)
