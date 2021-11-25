@@ -36,6 +36,10 @@
 
 - [電視版四季線上 4gTV](https://github.com/StanleyChen0924/Myself/blob/main/.github/ts/Apk/%E9%9B%BB%E8%A6%96%E7%89%88%E5%9B%9B%E5%AD%A3%E7%B7%9A%E4%B8%8A%204gTV_v1.2.7.apk?raw=true)
 
+- [小雞模擬器](https://github.com/StanleyChen0924/Myself/blob/main/.github/ts/Apk/xiaoji_1.7.25-A128.apk?raw=true)
+
+- [APKPure](https://github.com/StanleyChen0924/Myself/blob/main/.github/ts/Apk/APKPure_v3.17.29_apkpure.com.apk?raw=true)
+
 # Apple 
 - ![Apple](./Apple.png)
 - [Cloud Stream IPTV Player](https://apps.apple.com/us/app/cloud-stream-iptv-player/id1138002135)
