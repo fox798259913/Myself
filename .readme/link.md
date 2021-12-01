@@ -1,5 +1,7 @@
 # 短網址 :
+
 - https://git.io/J1wgG
+
 - ![MyQR](./MyQR.png)
 
 # Android 
@@ -44,6 +46,9 @@
 - [沙發管家V5.0_v5.0.5](https://github.com/StanleyChen0924/Myself/blob/main/.github/ts/Apk/%E6%B2%99%E7%99%BC%E7%AE%A1%E5%AE%B6V5.0_v5.0.5_webwww.apk?raw=true)
 
 # Apple 
+
 - ![Apple](./Apple.png)
+
 - [Cloud Stream IPTV Player](https://apps.apple.com/us/app/cloud-stream-iptv-player/id1138002135)
+
 - [How to use it](https://it-note.org/2017/08/25/cloudstream/)
