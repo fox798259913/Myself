@@ -4,7 +4,7 @@
 
 # Android 
 - ![Android](./Android.png)
-# 百川影音 & DIYP影音 txt
+# 百川影音 txt
 - 接口設置->節目地址 :
 - https://git.io/JgTd2
 
