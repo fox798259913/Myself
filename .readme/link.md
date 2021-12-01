@@ -4,7 +4,7 @@
 
 # Android 
 - ![Android](./Android.png)
-# DIYP影音 & 百川 txt
+# 百川影音 txt
 - 接口設置->節目地址 :
 - https://git.io/JgTd2
 
@@ -20,7 +20,6 @@
 - https://git.io/JgDz8
 
 # Apk Download
-- [DIYP影音 V5.2.0终极版](https://github.com/StanleyChen0924/Myself/blob/main/.github/ts/Apk/DIYP%E5%BD%B1%E9%9F%B3%20V5.2.0%E7%BB%88%E6%9E%81%E7%89%88.apk?raw=true)
 
 - [百川影音](https://github.com/StanleyChen0924/Myself/blob/main/.github/ts/Apk/%E7%99%BE%E5%B7%9D%E5%BD%B1%E9%9F%B3%20%E6%94%AF%E6%8C%81tvbus.apk?raw=true)
 
